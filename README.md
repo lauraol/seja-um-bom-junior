@@ -1,4 +1,4 @@
-# Seja um bom junior 
+# Imersão Seja um bom junior 🚀👩‍💻
 E ai júnior, suave? Quer se tornar desenvolvedor sênior em 4 meses? Que legal, mas não vai rolar.
 <div align=center>
  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif">
