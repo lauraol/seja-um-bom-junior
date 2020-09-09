@@ -21,7 +21,6 @@ Escrever um artigo no medium ou no readme.md do seu repositório da imersão sob
  - [ ] Para conteúdo prático:
  Publicar o seu código no github (e de quebra você já vai criando seu portfólio) será importante para que as pessoas vejam seu progresso. 
  - [ ] Compartilhar seu progresso nas mídias sociais usando a hashtag #SejaUmBomJunior (isso vai te dar motivação nos dias em que a procrastinação falar um pouco mais alto).
- - [ ] O ideal é concluir a tarefa tanto de conteúdo teórico quanto de conteúdo prático até 23:59 (lembre-se é o ideal, se você não conseguir só se joga e conclua sua tarefa 😉)
  
 ## Regras para mim
 Regras para mim mas que você pode seguir também hehe 😅.
