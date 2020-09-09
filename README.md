@@ -1,6 +1,6 @@
 # Imersão seja um bom junior 🚀👩‍💻
 E ai júnior, suave? Quer se tornar desenvolvedor sênior em 4 meses? Que legal, mas não vai rolar.
-<div align=center>
+<div>
  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif">
 </div>
 
@@ -83,6 +83,6 @@ O último mês da imersão será focado na elaboração de um "grande" projeto p
 
 Ao concluir essa imersão você junin terá conceitos bem mais consolidados e terá praticado bastante, e você que começou agora irá adquirir uma bela noção do ciclo de desenvolvimento de uma aplicação web. Mas, isso é a base e um pontapé, seguir na carreira de tecnologia é assinar um pacto de estudar a vida toda 👿.
 A partir desse ponto você pode escolher no que irá focar e se especializar.
-<h1 align="center">
+<div align="center">
 <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif">
-</h1>
+</div>
