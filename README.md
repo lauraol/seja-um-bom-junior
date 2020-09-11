@@ -110,7 +110,8 @@ Material de estudo:
 
 Bom, você pode estar pensando que é pouco tempo para estudar HTML e CSS, mas não se preocupa porque iremos usá-los daqui em diante para fazer o front-end de todos os projetinhos. Então, você irá praticar bastante e essa semana servirá mais para aprimorar (ou conhecer) seus conhecimentos sobre o assunto.
 
-**Semana dois**
+**Semana dois:**
+
 O objetivo da semana dois será conhecer as diretrizes de acessibilidade e começar a colocar javascript nas nossas páginas estáticas e torná-las interativas hehehe. 
 
 Essa semana irei burlar um pouco o cronograma de 2 dias de teoria e 3 de prática porque a documentação da WCAG é bem extensa, mas não se preocupa, obvio que não sairemos experts em acessibilidade, teremos uma introdução sobre o assunto e consolidação de alguns conceitos.
@@ -128,7 +129,8 @@ Material de estudo:
    - [ ] Guia JavaScript:
   https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
 
-**Semana três**
+**Semana três:**
+
 Bom, na última semana deu para dar aquela lida básica no guia do JS e fazer alguns mini projetinhos. Então, essa semana o foco será totalmente em JS hehehe, iremos utilizar bastante HTML e CSS também mas o foco e deixar suas páginas dinâmicas agora. 
 
 Material de estudo:
