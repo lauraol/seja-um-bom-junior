@@ -74,6 +74,7 @@ O Conteúdo para ser estudado:
  - [ ] AWS
 
 **Mês 4**
+
 O último mês da imersão será focado na elaboração de um "grande" projeto para amarrar todo o conhecimento adquirido nesse período. 
 
 **Requisitos do projeto:**
