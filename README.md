@@ -46,6 +46,7 @@ A imersão #SejaUmBomJunior irá durar 4 meses, parece muito tempo mas é só mo
 **Mês 01**
 
 O primeiro mês da imersão será focado em desenvolvimento front-end 💖
+
 O conteúdo para ser estudado:
 
  - [ ] HTML5 e benefícios de uma estrutura semântica
@@ -56,6 +57,7 @@ O conteúdo para ser estudado:
 **Mês 02**
 
 O segundo mês da imersão será focado em desenvolvimento back-end 😤
+
 O conteúdo para ser estudado:
 
  - [ ] POO - Programação Orientada a Objetos
@@ -65,6 +67,7 @@ O conteúdo para ser estudado:
 **Mês 03**
 
 O terceiro mês da imersão será focado em DevOps pois, é um assunto que veio como um soco na minha cara e ter uma base sobre a metodologia e as ferramentas utilizadas será de suma importância para você não ser pego de surpresa ⚙️
+
 O Conteúdo para ser estudado:
 
  - [ ] O que é DevOps?
