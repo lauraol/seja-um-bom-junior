@@ -44,6 +44,7 @@ Sábado é um dia mais voltado para exercitar lógica de programação, e isso s
 A imersão #SejaUmBomJunior irá durar 4 meses, parece muito tempo mas é só moscar que o tempo passa sem você perceber. 
 
 **Mês 01**
+
 O primeiro mês da imersão será focado em desenvolvimento front-end 💖
 O conteúdo para ser estudado:
 
@@ -52,7 +53,8 @@ O conteúdo para ser estudado:
  - [ ] Javascript (foco em ES6+)
  - [ ] Acessibilidade na web
 
-**Mês 2**
+**Mês 02**
+
 O segundo mês da imersão será focado em desenvolvimento back-end 😤
 O conteúdo para ser estudado:
 
@@ -60,7 +62,8 @@ O conteúdo para ser estudado:
  - [ ] Banco de dados (vou focar em banco de dados relacional MySQL)
  - [ ] Java
 
-**Mês 3**
+**Mês 03**
+
 O terceiro mês da imersão será focado em DevOps pois, é um assunto que veio como um soco na minha cara e ter uma base sobre a metodologia e as ferramentas utilizadas será de suma importância para você não ser pego de surpresa ⚙️
 O Conteúdo para ser estudado:
 
