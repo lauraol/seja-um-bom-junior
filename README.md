@@ -185,6 +185,60 @@ Material de estudos:
 
  - Banco de dados MySQL
    - [ ] Banco de dados MySQL, mais um cursinho do Guana-anjo: https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
+   
+   
+## Conteúdo de estudo do terceiro mês
+
+Parece que não, mas o tempo voa cara!
+
+O terceiro mês da imersão será focado em DevOps, teremos uma introdução sobre o assunto e realizaremos um projetinhos para praticar. Bom, DevOps é um assunto que dá MUITO pano pra manga galera, então não se desespere começar com uma introdução e um pézinho em DevOps é o que te fará buscar conhecer mais afundo o assunto. Então, bora ver o que estudaremos essas semanas:
+
+**Semana um:**
+
+Essa semana iremos burlar todo o calendário huehue, as vezes temos que quebrar algumas regras, como DevOps tem muito assunto para ler, faremos uma imersão bem mais teórica sobre o assunto. 
+
+Material de estudos:
+
+ - DevOps
+ - [ ] Dicionário do programador: 
+ https://www.youtube.com/watch?v=iwf6kcvxeD4
+ - [ ] Conteúdo em texto:
+  https://gaea.com.br/o-que-e-devops-conceito/
+ - Linux
+ - [ ]  O terminal será um belo amigo nessa jornada, curso do Guanabara sobre Linux:
+ https://www.youtube.com/watch?v=6nN2EglOqCM&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV
+
+
+**Semana dois:**
+Essa semana será exclusivamente para conhecermos o docker e praticar um pouquinho.
+
+Material de estudos:
+
+ - Docker
+   - [ ] Vamos começar com um vídeo introdutório e prático para dar aquela animada:
+  https://www.youtube.com/watch?v=Kzcz-EVKBEQ&t=796s
+   - [ ] Docker e Docker Compose: 
+ https://www.youtube.com/watch?v=yb2udL9GG2U&t=23s
+   - [ ] Cursinho sobre docker:
+ https://www.youtube.com/watch?v=c2y_yz9B6_M&list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4
+   - [ ] E não podia faltar, documentação: 
+  https://docs.docker.com/
+
+**Semanas três e quatro:**
+
+E chegou o assunto da vez, AWS, irei dedicar duas semanas em cima desse assunto pois AWS é um mundo basicamente. 
+
+Material de estudo: 
+
+ - AWS
+   - [ ] Introdução sobre AWS: 
+ https://www.youtube.com/watch?v=S5xF09-wkJw
+   - [ ] Curso oferecido pela AWS - AWS Cloud Practitioner Essentials: https://www.aws.training/Details/Curriculum?id=27076
+   - [ ] Tutorial de deploy com AWS: 
+ https://www.youtube.com/watch?v=U3VSJhaC4kc
+   - [ ] Documentação: 
+https://docs.aws.amazon.com/
+
 
 
 
