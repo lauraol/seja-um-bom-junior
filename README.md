@@ -171,7 +171,7 @@ Material de estudo:
 Essa semana vamos elevar um pouquinho mais o nível e começar na trilha de java intermediário.
 
  - Java
- - [ ] Curso da Loiane, Java Intermediário:
+   - [ ] Curso da Loiane, Java Intermediário:
  https://loiane.training/curso/java-intermediario
 
 
