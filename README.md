@@ -225,7 +225,7 @@ Material de estudos:
 
 **Semanas três e quatro:**
 
-E chegou o assunto da vez, AWS, irei dedicar duas semanas em cima desse assunto pois AWS é um mundo basicamente. 
+E chegou o assunto da vez, AWS, irei dedicar duas semanas em cima desse assunto pois AWS é um mundo basicamente (chegou a hora de gastar no inglês parça, mas não se desespere o translater é sempre um amigo nessas horas). 
 
 Material de estudo: 
 
