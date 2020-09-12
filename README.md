@@ -71,8 +71,7 @@ O terceiro mês da imersão será focado em DevOps pois, é um assunto que veio 
 O Conteúdo para ser estudado:
 
  - [ ] O que é DevOps?
- - [ ] Linux 
- - [ ] TCP/IP
+ - [ ] Linux
  - [ ] Docker
  - [ ] AWS
 
@@ -166,8 +165,17 @@ Material de estudo:
  - Java
    - [ ] Para começar a semana no pique da felicidade bora ler um artigozinho da Alura sobre programação orientada a objetos: https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos
    - [ ] Segunda parte do curso da Loiane, vamos continuar de onde paramos, o módulo será o: Orientação a Objetos e Java: https://loiane.training/curso/java-basico
-
+   
 **Semana três:**
+
+Essa semana vamos elevar um pouquinho mais o nível e começar na trilha de java intermediário.
+
+ - Java
+ - [ ] Curso da Loiane, Java Intermediário:
+ https://loiane.training/curso/java-intermediario
+
+
+**Semana quatro:**
 
 Sabe aquele papo que dados valem ouro? Pois é, o foco dessa semana será banco de dados \o/.
 
