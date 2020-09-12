@@ -141,5 +141,43 @@ Material de estudo:
  - JavaScript (vídeo aulas)
  - [ ] Curso do anjo vulgo Guanabara: 
    https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
+   
+   
+## Conteúdo de estudo do segundo mês
+
+**Semana um:**
+
+O foco da semana será no javão da massa. Iremos praticar alguns exercícios e fixar alguns conceitos, por enquanto sem estudar OO.
+
+Overview sobre a linguagem caso seja seu primeiro contato: https://rockcontent.com/br/blog/o-que-e-java/
+
+Material de estudo:
+
+ - Java
+ - [ ] Curso da Loiane sobre java básico (Essa semana iremos só até o módulo 6, pois os próximos são sobre OO):
+  https://loiane.training/curso/java-basico
+
+**Semana dois:**
+
+E ai, foi amor ou terror a primeira (ou a segunda rs) vista por java? Bom, essa semana iremos estudar a tão falada **Orientação a Objetos**. 
+
+Material de estudo:
+
+ - Java
+   - [ ] Para começar a semana no pique da felicidade bora ler um artigozinho da Alura sobre programação orientada a objetos: https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos
+   - [ ] Segunda parte do curso da Loiane, vamos continuar de onde paramos, o módulo será o: Orientação a Objetos e Java: https://loiane.training/curso/java-basico
+
+**Semana três:**
+
+Sabe aquele papo que dados valem ouro? Pois é, o foco dessa semana será banco de dados \o/.
+
+Irei focar em estudar o banco de dados relacional MySQL, e para que essa imersão seja acessível para todes, bora de mais cursos grátis.
+
+Material de estudos:
+
+ - Banco de dados MySQL
+   - [ ] Banco de dados MySQL, mais um cursinho do Guana-anjo: https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
+
+
 
 
