@@ -85,8 +85,7 @@ O último mês da imersão será focado na elaboração de um "grande" projeto p
  - [ ] Realização de controle de versão do projeto, **PROIBIDO COMMITAR NA MASTER DIRETO**
  - [ ] Realização do deploy da aplicação
 
-**Detalhes do projeto proposto:**
-//em breve 
+
 
 Ao concluir essa imersão você junin terá conceitos bem mais consolidados e terá praticado bastante, e você que começou agora irá adquirir uma bela noção do ciclo de desenvolvimento de uma aplicação web. Mas, isso é a base e um pontapé, seguir na carreira de tecnologia é assinar um pacto de estudar a vida toda 👿.
 A partir desse ponto você pode escolher no que irá focar e se especializar.
