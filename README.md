@@ -239,6 +239,31 @@ Material de estudo:
 https://docs.aws.amazon.com/
 
 
+## Quarto mês - projeto final
+
+E chegamos, último mês! Recapitulando os requisitos do projeto: 
+
+**Requisitos do projeto:**
+ - [ ] Realização de um front-end para a aplicação
+ - [ ] Realização de um back-end para a aplicação
+ - [ ] Realização de controle de versão do projeto, **PROIBIDO COMMITAR NA MASTER DIRETO**
+ - [ ] Realização do deploy da aplicação
+
+**Detalhes da aplicação:**
+
+Bom, você conhece o trello? Ou algum outro app de to do list? Ótimo, pois nessa aplicação será um to do list. Iremos seguir as especificações descritas aqui: https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/To-Do-App.md e além disso, a nossa aplicação também deverá ter:
+
+ - [ ] Cadastro
+ - [ ] Login/Logout
+ - [ ] Perfil do usuário
+ - [ ] Opção de editar perfil do usuário 
+ - [ ] 4 campos: Backlog, To Do, Doing e Done
+ - [ ] Os cards deverão se mover de uma lista para a outra
+
+O design da aplicação fica a gosto de freguês, então pode colocar toda a sua criatividade para fora. 
+
+Com essa aplicação conseguiremos aplicar bastante todo o conhecimento visto durante a imersão, desde a manipulação de arrays até a persistência de dados em memória e deploy. Então, se joga e bora codar.
+
 
 
 
