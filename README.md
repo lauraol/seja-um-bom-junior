@@ -109,6 +109,14 @@ Material de estudo:
    - [ ] Leitura sobre CSS (esse site é MARAVILHOSO):
    https://css-tricks.com/
 
+**Desafios:**
+Para os dias de prática dessa semana teremos dois desafios: 
+
+ - [ ] Para dar uma aquecida nos dedinhos: https://www.devchallenge.com.br/detail/5f0b4acaa5fec43156149044
+ - [ ] Agora um com um pouco mais de elementos: https://www.devchallenge.com.br/detail/5f14fad2130a5d78f89d9642
+
+O site DevChallenge fornece todas as instruções para que possamos realizar os desafios 🥰
+
 Bom, você pode estar pensando que é pouco tempo para estudar HTML e CSS, mas não se preocupa porque iremos usá-los daqui em diante para fazer o front-end de todos os projetinhos. Então, você irá praticar bastante e essa semana servirá mais para aprimorar (ou conhecer) seus conhecimentos sobre o assunto.
 
 **Semana dois:**
@@ -117,7 +125,7 @@ O objetivo da semana dois será conhecer as diretrizes de acessibilidade e come�
 
 Essa semana irei burlar um pouco o cronograma de 2 dias de teoria e 3 de prática porque a documentação da WCAG é bem extensa, mas não se preocupa, obvio que não sairemos experts em acessibilidade, teremos uma introdução sobre o assunto e consolidação de alguns conceitos.
 
-Serão 3 dias de teoria  e 2 de prática (o sabádo não conta pois é dia de realizar exercícios no URI ou HackerRank).
+Serão 3 dias de teoria  e 2 de prática (o sábado não conta pois é dia de realizar exercícios no URI ou HackerRank).
 
 Material de estudo:
 
@@ -129,6 +137,12 @@ Material de estudo:
  - JavaScript
    - [ ] Guia JavaScript:
   https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
+  
+**Desafios:**
+Para os dias de prática dessa semana teremos um desafio: 
+
+ - [ ] WiseGoat, gerador de conselhos e imagens de bodes: https://www.devchallenge.com.br/detail/5f14f8d5130a5d78f89d9640
+PS: lembre-se que é se extrema importância que a página esteja ok para com as regras de acessibilidade, exemplo: fazer com que o leitor de tela consiga ler os conselhos e a imagem e prestar atenção no esquema de cores e etc.
 
 **Semana três:**
 
@@ -140,8 +154,17 @@ Material de estudo:
  - [ ] Curso do anjo vulgo Guanabara: 
    https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
    
+**Desafios:**
+Para os dias de prática dessa semana teremos dois desafios: 
+
+ - [ ] Página de login, o objetivo é verificar se o formulário foi preenchido corretamente (no projeto final isso será bem útil hihi 😇):
+ https://www.devchallenge.com.br/detail/5f261924ecb9243236c05385
+ - [ ] Music Library Page: https://www.devchallenge.com.br/detail/5eeed967c2cfb17d361a5a60
+   
    
 ## Conteúdo de estudo do segundo mês
+
+PS: não será necessário criar um front para os projetos desse mês.
 
 **Semana um:**
 
@@ -155,6 +178,20 @@ Material de estudo:
    - [ ] Curso da Loiane sobre java básico (Essa semana iremos só até o módulo 6, pois os próximos são sobre OO):
   https://loiane.training/curso/java-basico
 
+**Desafios:**
+Para os dias de prática dessa semana teremos oito desafios (pode incluir no sábado também pois, estamos pegando os exercícios do URI): 
+
+ - [ ] URI 1005: https://www.urionlinejudge.com.br/judge/pt/problems/view/1005
+ - [ ] URI 1006: https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
+ - [ ] URI 1008: https://www.urionlinejudge.com.br/judge/pt/problems/view/1008
+ - [ ] URI 1009: https://www.urionlinejudge.com.br/judge/pt/problems/view/1009
+ - [ ] URI 1010: https://www.urionlinejudge.com.br/judge/pt/problems/view/1010
+ - [ ] URI 1014: https://www.urionlinejudge.com.br/judge/pt/problems/view/1014
+ - [ ] URI 1035: https://www.urionlinejudge.com.br/judge/pt/problems/view/1035
+ - [ ] URI 1020: https://www.urionlinejudge.com.br/judge/pt/problems/view/1020
+
+PS: Criei sua conta no URI e enviei sua resolução, e o site dirá se aceita ou não sua resposta.
+
 **Semana dois:**
 
 E ai, foi amor ou terror a primeira (ou a segunda rs) vista por java? Bom, essa semana iremos estudar a tão falada **Orientação a Objetos**. 
@@ -165,6 +202,20 @@ Material de estudo:
    - [ ] Para começar a semana no pique da felicidade bora ler um artigozinho da Alura sobre programação orientada a objetos: https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos
    - [ ] Segunda parte do curso da Loiane, vamos continuar de onde paramos, o módulo será o: Orientação a Objetos e Java: https://loiane.training/curso/java-basico
    
+**Desafios:**
+Para os dias de prática dessa semana teremos oito desafios (pode incluir no sábado também pois, estamos pegando os exercícios do URI): 
+
+ - [ ] URI 1038: https://www.urionlinejudge.com.br/judge/pt/problems/view/1038
+ - [ ] URI 1040: https://www.urionlinejudge.com.br/judge/pt/problems/view/1040
+ - [ ] URI 1041: https://www.urionlinejudge.com.br/judge/pt/problems/view/1041
+ - [ ] URI 1042: https://www.urionlinejudge.com.br/judge/pt/problems/view/1042
+ - [ ] URI 1052: https://www.urionlinejudge.com.br/judge/pt/problems/view/1052
+ - [ ] URI 1048: https://www.urionlinejudge.com.br/judge/pt/problems/view/1048
+ - [ ] URI 1078: https://www.urionlinejudge.com.br/judge/pt/problems/view/1078
+ - [ ] URI 1176: https://www.urionlinejudge.com.br/judge/pt/problems/view/1176
+
+PS: Criei sua conta no URI e enviei sua resolução, e o site dirá se aceita ou não sua resposta.
+   
 **Semana três:**
 
 Essa semana vamos elevar um pouquinho mais o nível e começar na trilha de java intermediário.
@@ -172,6 +223,20 @@ Essa semana vamos elevar um pouquinho mais o nível e começar na trilha de java
  - Java
    - [ ] Curso da Loiane, Java Intermediário:
  https://loiane.training/curso/java-intermediario
+ 
+**Desafios:**
+Para os dias de prática dessa semana teremos oito desafios (pode incluir no sábado também pois, estamos pegando os exercícios do URI): 
+
+ - [ ] URI 1789: https://www.urionlinejudge.com.br/judge/pt/problems/view/1789
+ - [ ] URI 1848: https://www.urionlinejudge.com.br/judge/pt/problems/view/1848
+ - [ ] URI 1929: https://www.urionlinejudge.com.br/judge/pt/problems/view/1929
+ - [ ] URI 2143: https://www.urionlinejudge.com.br/judge/pt/problems/view/2143
+ - [ ] URI 2334: https://www.urionlinejudge.com.br/judge/pt/problems/view/2334
+ - [ ] URI 2533: https://www.urionlinejudge.com.br/judge/pt/problems/view/2533
+ - [ ] URI 2554: https://www.urionlinejudge.com.br/judge/pt/problems/view/2554
+ - [ ] URI 2670: https://www.urionlinejudge.com.br/judge/pt/problems/view/2670
+
+PS: Criei sua conta no URI e enviei sua resolução, e o site dirá se aceita ou não sua resposta.
 
 
 **Semana quatro:**
@@ -184,6 +249,9 @@ Material de estudos:
 
  - Banco de dados MySQL
    - [ ] Banco de dados MySQL, mais um cursinho do Guana-anjo: https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
+   
+ **Desafios:**
+siga os desafios propostos no curso. 
    
    
 ## Conteúdo de estudo do terceiro mês
