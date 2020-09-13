@@ -145,6 +145,7 @@ Para os dias de prática dessa semana teremos um desafio:
 
  - [ ] WiseGoat, gerador de conselhos e imagens de bodes: https://www.devchallenge.com.br/detail/5f14f8d5130a5d78f89d9640
 PS: lembre-se que é se extrema importância que a página esteja ok para com as regras de acessibilidade, exemplo: fazer com que o leitor de tela consiga ler os conselhos e a imagem e prestar atenção no esquema de cores e etc.
+ - [ ] HackerRank "10 day of javascript", fazer os 12 primeiros exercícios: https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
 **Semana três:**
 
@@ -160,9 +161,8 @@ Material de estudo:
 
 Para os dias de prática dessa semana teremos dois desafios: 
 
- - [ ] Página de login, o objetivo é verificar se o formulário foi preenchido corretamente (no projeto final isso será bem útil hihi 😇):
- https://www.devchallenge.com.br/detail/5f261924ecb9243236c05385
  - [ ] Music Library Page: https://www.devchallenge.com.br/detail/5eeed967c2cfb17d361a5a60
+ - [ ] HackerRank "10 day of javascript", fazer os últimos 13 exercícios: https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
    
    
 ## Conteúdo de estudo do segundo mês
