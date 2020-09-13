@@ -260,7 +260,7 @@ Bom, você conhece o trello? Ou algum outro app de to do list? Ótimo, pois ness
  - [ ] 4 campos: Backlog, To Do, Doing e Done
  - [ ] Os cards deverão se mover de uma lista para a outra
 
-O design da aplicação fica a gosto de freguês, então pode colocar toda a sua criatividade para fora. 
+O design da aplicação fica a gosto do freguês, então pode colocar toda a sua criatividade para fora. 
 
 Com essa aplicação conseguiremos aplicar bastante todo o conhecimento visto durante a imersão, desde a manipulação de arrays até a persistência de dados em memória e deploy. Então, se joga e bora codar.
 
