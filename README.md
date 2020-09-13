@@ -152,7 +152,7 @@ Overview sobre a linguagem caso seja seu primeiro contato: https://rockcontent.c
 Material de estudo:
 
  - Java
- - [ ] Curso da Loiane sobre java básico (Essa semana iremos só até o módulo 6, pois os próximos são sobre OO):
+   - [ ] Curso da Loiane sobre java básico (Essa semana iremos só até o módulo 6, pois os próximos são sobre OO):
   https://loiane.training/curso/java-basico
 
 **Semana dois:**
@@ -199,12 +199,12 @@ Essa semana iremos burlar todo o calendário huehue, as vezes temos que quebrar 
 Material de estudos:
 
  - DevOps
- - [ ] Dicionário do programador: 
+   - [ ] Dicionário do programador: 
  https://www.youtube.com/watch?v=iwf6kcvxeD4
- - [ ] Conteúdo em texto:
+   - [ ] Conteúdo em texto:
   https://gaea.com.br/o-que-e-devops-conceito/
  - Linux
- - [ ]  O terminal será um belo amigo nessa jornada, curso do Guanabara sobre Linux:
+   - [ ]  O terminal será um belo amigo nessa jornada, curso do Guanabara sobre Linux:
  https://www.youtube.com/watch?v=6nN2EglOqCM&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV
 
 
