@@ -2,9 +2,13 @@ Segundou, dia oficial de começar novos projetos 😅. Hoje foi um dia de estudo
 
 O HTML (Linguagem de Marcação de Hipertexto) como o nome bem diz não é uma linguagem de programação, é uma linguagem de marcação.
 
+<div align="center">
 <img src="https://media.giphy.com/media/xU9TT471DTGJq/giphy.gif" alt="Hommer Simpson gritando em meio a um surto após descobrir que não era um programador HTML">
+</div>
 
+<div align="center">
 _eu depois de descobrir que não era uma programadora HTML._
+</div>
 
 E para que o HTML serve? Bom, o HTML serve para estruturar uma página da web e o seu respectivo conteúdo.
 
