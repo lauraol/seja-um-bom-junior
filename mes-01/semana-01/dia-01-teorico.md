@@ -39,4 +39,6 @@ O HTML oferece vários elementos para que você possa realizar uma estrutura o m
 **Como desafio:** O que você acha de largar o comodismo de usar `<div>` e tags genéricas ou só as tags mais conhecidas do HTML e construir um site mais semântico usando a documentação como guia? 😊
 
 Você não é um arquivo ambulante mas com um pouquinho de prática vários desses elementos virão naturalmente em sua cabeça na hora de estruturar o seu site.
+
+
 <img src="https://media.giphy.com/media/xT0xeMBKWerQ930gKc/giphy.gif" alt="Dois personagens de star wars fazendo o sinal de joinha.">
