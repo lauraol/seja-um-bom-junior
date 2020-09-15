@@ -12,6 +12,8 @@ _eu depois de descobrir que não era uma programadora HTML._
 </div>
 
 
+
+
 E para que o HTML serve? Bom, o HTML serve para estruturar uma página da web e o seu respectivo conteúdo.
 
 E o que é semântica? Em poucas palavras, é dar significado a alguma coisa, no caso do HTML dar significado a uma TAG, ou melhor, a um elemento. Com isso, o navegador irá exibir o seu conteúdo corretamente.
