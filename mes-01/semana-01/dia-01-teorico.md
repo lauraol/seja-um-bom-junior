@@ -8,10 +8,10 @@ O HTML (Linguagem de Marcação de Hipertexto) como o nome bem diz não é uma l
 
 
 <div align="center">
-_eu depois de descobrir que não era uma programadora HTML._
+ eu depois de descobrir que não era uma programadora HTML 
 </div>
 
-
+<hr> 
 
 
 E para que o HTML serve? Bom, o HTML serve para estruturar uma página da web e o seu respectivo conteúdo.
@@ -48,5 +48,6 @@ O HTML oferece vários elementos para que você possa realizar uma estrutura o m
 
 Você não é um arquivo ambulante mas com um pouquinho de prática vários desses elementos virão naturalmente em sua cabeça na hora de estruturar o seu site.
 
-
-<img src="https://media.giphy.com/media/xT0xeMBKWerQ930gKc/giphy.gif" alt="Dois personagens de star wars fazendo o sinal de joinha.">
+<div align="center">
+ <img src="https://media.giphy.com/media/xT0xeMBKWerQ930gKc/giphy.gif" alt="Dois personagens de star wars fazendo o sinal de joinha.">
+</div
