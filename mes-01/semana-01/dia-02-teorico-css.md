@@ -16,6 +16,7 @@ Nós podemos dividir os seletores em quatro categorias, que se tivessem um peso 
 4.  Seletor id, peso: 1000
 
 **Seletores utilizando tags HTML**
+
 Ou também chamados de seletores de tipo, são o tipo mais genérico de seletores do CSS. Você pode simplesmente usar o nome do elemento no HTML para aplicar um estilo nele. Sintaxe:
 
     p {
@@ -23,6 +24,7 @@ Ou também chamados de seletores de tipo, são o tipo mais genérico de seletore
     }
 
 **Seletor descendente**
+
 Lembra que falamos que o CSS é uma folha de estilos em **cascata**? Pois bem, ao utilizar seletores descentes é possível que você selecione elementos dentro de outros elementos, como se você fosse fazendo uma cascata até o elemento que você deseja. Sintaxe:
 
     p a {
@@ -32,6 +34,7 @@ Lembra que falamos que o CSS é uma folha de estilos em **cascata**? Pois bem, a
 Usando esse tipo de seletor você está dizendo que você quer pegar todo o elemento `<a>` que estiver dentro de um elemento `<p>`.
 
 **Seletor classe**
+
 Esse seletor só irá aplicar o estilo que você deseja em elementos que tiverem com uma classe específica aplicada, por exemplo:
 
 HTML:
@@ -51,6 +54,7 @@ CSS:
 Os parágrafos que terão o estilo definido no CSS aplicado serão os que tem a classe **descricao**. O class é um excelente seletor para quando você precisa dar o mesmo estilo para vários elementos pois, como visto acima ele pode se repetir.
 
 **Seletor id**
+
 O seletor de peso 1000 hehe, pense ele como se fosse o CFP ou a digital do elemento, ou seja, só pode haver (você pode na real colocar o mesmo id para mais de um elemento, mas ai ele perde o propósito de ser um id e teria sido melhor utilizar class) um elemento com esse id. Esse seletor se sobrepõe a todos os seletores citados anteriormente, é o seletor com a maior ordem de precedência. Sintaxe:
 
     #nav-color{
