@@ -31,7 +31,7 @@ Além dessa questão de segurar o usuário na página temos outros pontos import
 
 - A falta de uma estrutura semântica para pessoas com alguma deficiência visual é ainda mais grave pois, elas utilizam softwares denominados leitores de tela. Esses softwares leem todo o conteúdo da sua página para aquela pessoa, e se você não tem elementos identificados como por exemplo um título, um parágrafo, um botão ou uma lista, a navegação por meio desses leitores de tela se torna um caos. Ou seja, uma estrutura semântica também é benéfica em relação a acessibilidade. Pensando nesse conteúdo apresentado nós como desenvolvedoras e desenvolvedores temos a obrigação tornar nossas páginas web mais acessíveis e inclusivas para todo o tipo de público (mais para frente estudaremos um pouquinho mais sobre acessibilidade 🤩).
 
-Continuando a leitura sobre HTML, resolvi lei um artigo ( https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) que apresenta-se os elementos dessa linguagem de marcação.
+Continuando a leitura sobre HTML, resolvi ler um artigo (https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) que apresenta-se os elementos dessa linguagem de marcação.
 Durante a leitura me deparei com várias tags que não tenho o costume de utilizar no meu dia a dia (ou melhor, não tinha hehe 😎) e as principais foram:
 
 `<aside>` = representa uma seção da página que é diretamente associada a outro conteúdo. É bem utilizada para fazer aquelas barrinhas laterais.
