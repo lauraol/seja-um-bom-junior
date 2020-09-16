@@ -1,6 +1,6 @@
 Segundo dia de teoria da primeira semana e o assunto é **CSS3**.
 
-Mas, o que é CSS mesmo? CSS significa Cascading Style Sheets, é quem ferá o estilo da nossa página web, ele colocará uma "roupinha" no HTML 👕👖.
+Mas, o que é CSS mesmo? CSS significa Cascading Style Sheets, é quem fará o estilo da nossa página web, ele colocará uma "roupinha" no nosso HTML 👕👖.
 
 Bom, vamos recapitular a sintaxe usada na sua folha de estilos:
 
