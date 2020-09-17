@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+
+.bg {
+  background-color: #0c0b0b;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: #0f0e0e;
+  width: 70%;
+  height: 70%;
+  border-radius: 4px;
+}
+
+.container-perfil {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 15%;
+  padding-right: 16%;
+  padding-top: 10%;
+}
+
+.usuario {
+  display: flex;
+}
+
+.foto-usuario img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+
+.nome-usuario p {
+  color: #b7b7b7;
+  font-family: "Rubik", sans-serif;
+  margin-left: 15px;
+}
+
+.nome {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+.botao-editar {
+  width: 90px;
+  height: 40px;
+  font-family: "Rubik", sans-serif;
+  color: #b7b7b7;
+  background-color: #353830;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 40px;
+}
+
+.container-infos {
+  display: flex;
+  justify-content: space-evenly;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+}
+
+.projetos,
+.estrelas,
+.seguidores {
+  width: 180px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 8px;
+}
+
+.projetos {
+  background-color: #046313;
+}
+
+.estrelas {
+  background-color: #044a7d;
+}
+
+.seguidores {
+  background-color: #725200;
+}
+
+.info,
+.num {
+  color: #b7b7b7;
+  font-family: "Rubik", sans-serif;
+  font-size: 20px;
+  margin-left: 10%;
+}
+
+.num {
+  font-size: 35px;
+}

@@ -1,0 +1,113 @@
+@media (max-width: 490px) {
+  .bg {
+    height: 120vh;
+  }
+
+  .container {
+    height: 85%;
+  }
+
+  .container-perfil {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .usuario {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .foto-usuario img {
+    margin-left: 70px;
+  }
+
+  .nome-usuario p {
+    text-align: center;
+  }
+
+  .nome {
+    margin-top: 15px;
+  }
+
+  .botao-editar {
+    margin-top: 15px;
+    margin-left: 80px;
+  }
+
+  .container-infos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .projetos,
+  .estrelas,
+  .seguidores {
+    width: 200px;
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 440px) {
+  .foto-usuario img {
+    margin-left: 60px;
+  }
+}
+
+@media (max-width: 430px) {
+  .bg {
+    height: 120vh;
+  }
+
+  .container {
+    height: 85%;
+  }
+
+  .container-perfil {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .usuario {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .foto-usuario img {
+    margin-left: 50px;
+  }
+
+  .nome-usuario p {
+    text-align: center;
+  }
+
+  .nome {
+    margin-top: 15px;
+  }
+
+  .botao-editar {
+    margin-top: 15px;
+    margin-left: 65px;
+  }
+
+  .container-infos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .projetos,
+  .estrelas,
+  .seguidores {
+    width: 200px;
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 350px) {
+  .botao-editar {
+    margin-left: 50px;
+  }
+}
