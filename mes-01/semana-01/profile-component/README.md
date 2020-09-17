@@ -1,7 +1,7 @@
 ## Demo do meu projeto
 
 
-## README DevChallenge
+## README DevChallenge - instruções do projeto
 
 <br />
 <p align="center">
