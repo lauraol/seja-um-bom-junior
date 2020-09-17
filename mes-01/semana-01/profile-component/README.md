@@ -1,15 +1,6 @@
 ## Demo do meu projeto
 
-<br />
-<p align="center">
- <img src="https://ibb.co/G2QfVQm" alt="Vídeo demo no projeto" width="1000">
-  <h3 align="center">Desafio realizado por <a href="https://github.com/lauraol">Laura</a></h3>
- <br />
-  <p align="center">
-    Desafio retirado do: 
-    <a href="https://www.devchallenge.com.br/">DevChallenge</a>
-  </p>
-</p>
+![Vídeo demo do projeto](./assets/demogif.gif)
 
 ## README DevChallenge - instruções do projeto
 
