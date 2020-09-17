@@ -2,16 +2,10 @@
 
 <br />
 <p align="center">
-   
-  <video width="1000" controls>
-   <source src="./assets/profile-laurou.mp4" type="video/mp4">
-  </video>
-
+ <img src="./assets/demogrif.gif" alt="Vídeo demo no projeto" width="1000">
   <h3 align="center">Desafio realizado por <a href="https://github.com/lauraol">Laura</a></h3>
  <br />
   <p align="center">
-     Perfil de um usuário
-       <br />
     <br />
     Desafio retirado do: 
     <a href="https://www.devchallenge.com.br/">DevChallenge</a>
