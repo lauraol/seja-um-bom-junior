@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
- <img src="/assets/demogrif.gif" alt="Vídeo demo no projeto" width="1000">
+ <img src="../assets/demogrif.gif" alt="Vídeo demo no projeto" width="1000">
   <h3 align="center">Desafio realizado por <a href="https://github.com/lauraol">Laura</a></h3>
  <br />
   <p align="center">
