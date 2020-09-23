@@ -140,9 +140,9 @@ Material de estudo:
 
 - Acessibilidade
   - [ ] Diretrizes de acessibilidade para conteúdo web:
-        https://css-tricks.com/
+        https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/
   - [ ] Guia WCAG (consulta rápida):
-        https://css-tricks.com/
+        https://guia-wcag.com/
 - JavaScript
   - [ ] Guia JavaScript:
         https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
