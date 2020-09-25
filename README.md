@@ -152,7 +152,6 @@ Material de estudo:
 Para os dias de prática dessa semana teremos um desafio:
 
 - [ ] WiseGoat, gerador de conselhos e imagens de bodes: https://www.devchallenge.com.br/detail/5f14f8d5130a5d78f89d9640
-      PS: lembre-se que é se extrema importância que a página esteja ok para com as regras de acessibilidade, exemplo: fazer com que o leitor de tela consiga ler os conselhos e a imagem e prestar atenção no esquema de cores e etc.
 - [ ] HackerRank "10 day of javascript", fazer os 12 primeiros exercícios: https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
 **Semana três:**
