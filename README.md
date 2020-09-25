@@ -152,6 +152,7 @@ Material de estudo:
 Para os dias de prática dessa semana teremos um desafio:
 
 - [x] WiseGoat, gerador de conselhos e imagens de bodes: : https://www.devchallenge.com.br/detail/5f14f8d5130a5d78f89d9640 
+      
       Vai pedir um conselho para o bodezinho: https://wisegoatconselhos.vercel.app/
 - [ ] HackerRank "10 day of javascript", fazer os 12 primeiros exercícios: https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
