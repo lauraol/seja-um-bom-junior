@@ -58,7 +58,7 @@ O primeiro mês da imersão será focado em desenvolvimento front-end 💖
 O conteúdo para ser estudado:
 
 - [ ] HTML5 e benefícios de uma estrutura semântica
-- [ ] CSS3 (animações, flexbox, grid e etc)
+- [ ] CSS3 (flexbox, grid e etc)
 - [ ] Javascript (foco em ES6+)
 - [ ] Acessibilidade na web
 
@@ -112,17 +112,17 @@ Para isso será necessário realizar a leitura da documentação (eu sei, eu sei
 Material de estudo:
 
 - HTML5
-  - [ ] Leitura da documentação sobre os elementos HTML: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
+  - [x] Leitura da documentação sobre os elementos HTML: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
 - CSS
-  - [ ] Leitura sobre CSS (esse site é MARAVILHOSO):
+  - [x] Leitura sobre CSS (esse site é MARAVILHOSO):
         https://css-tricks.com/
 
 **Desafios:**
 
 Para os dias de prática dessa semana teremos dois desafios:
 
-- [ ] Para dar uma aquecida nos dedinhos: https://www.devchallenge.com.br/detail/5f0b4acaa5fec43156149044
-- [ ] Agora um com um pouco mais de elementos: https://www.devchallenge.com.br/detail/5f14fad2130a5d78f89d9642
+- [x] Para dar uma aquecida nos dedinhos: https://www.devchallenge.com.br/detail/5f0b4acaa5fec43156149044
+- [x] Agora um com um pouco mais de elementos: https://www.devchallenge.com.br/detail/5f14fad2130a5d78f89d9642
 
 O site DevChallenge fornece todas as instruções para que possamos realizar os desafios 🥰
 
@@ -139,9 +139,9 @@ Serão 3 dias de teoria e 2 de prática (o sábado não conta pois é dia de rea
 Material de estudo:
 
 - Acessibilidade
-  - [ ] Diretrizes de acessibilidade para conteúdo web:
+  - [x] Diretrizes de acessibilidade para conteúdo web:
         https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/
-  - [ ] Guia WCAG (consulta rápida):
+  - [x] Guia WCAG (consulta rápida):
         https://guia-wcag.com/
 - JavaScript
   - [ ] Guia JavaScript:
@@ -151,7 +151,9 @@ Material de estudo:
 
 Para os dias de prática dessa semana teremos um desafio:
 
-- [ ] WiseGoat, gerador de conselhos e imagens de bodes: https://www.devchallenge.com.br/detail/5f14f8d5130a5d78f89d9640
+- [x] WiseGoat, gerador de conselhos e imagens de bodes: : https://www.devchallenge.com.br/detail/5f14f8d5130a5d78f89d9640 
+      
+      Vai pedir um conselho para o bodezinho: https://wisegoatconselhos.vercel.app/
 - [ ] HackerRank "10 day of javascript", fazer os 12 primeiros exercícios: https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
 **Semana três:**
