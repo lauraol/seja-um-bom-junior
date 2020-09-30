@@ -22,4 +22,4 @@ Anotações feitas a partir do curso de JavaScript ministrado pelo Guanabara, o 
 - [Módulo 05: Repetições (laços) em JavaScript][5]
 - [Módulo 06: Avançando nos estudos em JavaScript][6]
 
-[1]: https://github.com/lauraol/gerenciador-de-financas/blob/master/README.md#módulo-01-conhecendo-o-javaScript "Módulo 01: Conhecendo o JavaScript"
+[1]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-01-conhecendo-o-javaScript "Módulo 01: Conhecendo o JavaScript"
