@@ -15,9 +15,11 @@ Documentação que você também pode dar uma lida: https://developer.mozilla.or
 
 Anotações feitas a partir do curso de JavaScript ministrado pelo Guanabara, o curso será dividido em seis módulos:
 
-- Módulo 01: Conhecendo o JavaScript
-- Módulo 02: Comandos básicos do JavaScript
-- Módulo 03: Document Object Model
-- Módulo 04: Condições em JavaScript
-- Módulo 05: Repetições (laços) em JavaScript
-- Módulo 06: Avançando nos estudos em JavaScript
+- [Módulo 01: Conhecendo o JavaScript][1]
+- [Módulo 02: Comandos básicos do JavaScript][2]
+- [Módulo 03: Document Object Model][3]
+- [LMódulo 04: Condições em JavaScript][4]
+- [Módulo 05: Repetições (laços) em JavaScript][5]
+- [Módulo 06: Avançando nos estudos em JavaScript][6]
+
+[1]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-01-conhecendo-o-javaScript "Módulo 01: Conhecendo o JavaScript"
