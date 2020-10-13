@@ -1,0 +1,10 @@
+body{
+    background-color: teal;
+}
+
+h1,
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+}
