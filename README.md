@@ -326,6 +326,8 @@ Material de estudo:
         https://www.youtube.com/watch?v=U3VSJhaC4kc
   - [ ] Documentação:
         https://docs.aws.amazon.com/
+        
+☁️💻 Repositório com resumos sobre AWS e seus componentes: https://github.com/lauraol/cabeca-nas-nuvens
 
 ## Quarto mês - projeto final
 
