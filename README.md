@@ -128,6 +128,8 @@ O site DevChallenge fornece todas as instruções para que possamos realizar os 
 
 Bom, você pode estar pensando que é pouco tempo para estudar HTML e CSS, mas não se preocupa porque iremos usá-los daqui em diante para fazer o front-end de todos os projetinhos. Então, você irá praticar bastante e essa semana servirá mais para aprimorar (ou conhecer) seus conhecimentos sobre o assunto.
 
+🚀 Extra: Caso você esteja começando do zero creio que só a leitura da documentação apesar de muito importante não será suficiente. Então, o Guanabara lançou um curso atualizado sobre HTML5 e CSS3, para conferir é só clicar aqui:https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+
 **Semana dois:**
 
 O objetivo da semana dois será conhecer as diretrizes de acessibilidade e começar a colocar javascript nas nossas páginas estáticas e torná-las interativas hehehe.
@@ -172,6 +174,14 @@ Para os dias de prática dessa semana teremos dois desafios:
 
 - [ ] Music Library Page: https://www.devchallenge.com.br/detail/5eeed967c2cfb17d361a5a60
 - [ ] HackerRank "10 day of javascript", fazer os últimos 13 exercícios: https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
+
+🚀 Extra: Para mergulhar ainda mais no JS a Rocketseat tem dois cursinhos gratuitos o de JavaScript e o ES6:
+
+JavaScript: https://app.rocketseat.com.br/node/curso-java-script
+
+ES6: https://app.rocketseat.com.br/node/curso-java-script-es-6
+
+Se vocÊ quiser também vale a pena fazer o cursinho de node, é só clicar aqui: https://app.rocketseat.com.br/node/curso-node-js
 
 ## Conteúdo de estudo do segundo mês
 
