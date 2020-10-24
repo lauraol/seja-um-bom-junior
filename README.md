@@ -181,7 +181,7 @@ JavaScript: https://app.rocketseat.com.br/node/curso-java-script
 
 ES6: https://app.rocketseat.com.br/node/curso-java-script-es-6
 
-Se vocÊ quiser também vale a pena fazer o cursinho de node, é só clicar aqui: https://app.rocketseat.com.br/node/curso-node-js
+Se você quiser também vale a pena fazer o cursinho de node, é só clicar aqui: https://app.rocketseat.com.br/node/curso-node-js
 
 ## Conteúdo de estudo do segundo mês
 
