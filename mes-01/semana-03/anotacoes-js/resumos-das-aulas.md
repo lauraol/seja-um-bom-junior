@@ -22,4 +22,49 @@ Anotações feitas a partir do curso de JavaScript ministrado pelo Guanabara, o 
 - [Módulo 05: Repetições (laços) em JavaScript][5]
 - [Módulo 06: Avançando nos estudos em JavaScript][6]
 
-[1]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-01-conhecendo-o-javaScript "Módulo 01: Conhecendo o JavaScript"
+## Módulo 02: Comandos básicos do JavaScript
+
+**Variáveis e tipos primitivos**
+
+ - Number
+	 - Infinity
+	 - NaN
+ - String
+ - Boolean
+ - Null
+ - Undefined
+ - Object
+	 - Array
+ - Function
+
+**Tratamento de dados**
+
+Number.parseInt(n) = irá transformar um número em um número inteiro
+
+Number.parseFloat(n) = irá transformar um número em um número real
+
+Number(n) = o JS se vira para saber se é do tipo inteiro ou do tipo real ( vale para as versões mais novas do JS)
+
+**Para converter para string:**
+
+String(n)
+n.toString()
+
+**Algumas funcionalidades para a formatação de strings**
+
+palavra.length = co9nta quantos caracteres tem na string
+
+palavra.toUpperCase() = tudo para maiúsculo
+
+palavra.toLowerCase() = tudo para minúsculo
+
+**Formatação de números**
+
+n.toFixed(num) = Serve para formatar o número de casas decimais que serão mostradas
+
+n.toFixed(num).replace(".", ",") = Serve para além de formatar as casas decimais também substituir o ponto por virgula 
+
+n.toLocaleString("pt-BR", {style: "currency", currency: "BRL"}) = irá colocar no símbolo de real (ou de qualquer outra moeda) na frente do valor
+
+[1]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-01-conhecendo-o-javaScript  "Módulo 01: Conhecendo o JavaScript"
+[2]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-02-comandos-básicos-do-javaScript  "Módulo 02: Comandos básicos do JavaScript"
