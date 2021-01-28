@@ -1,4 +1,4 @@
-# Imersão seja um bom junior 🚀👩‍💻
+# Plano de estudos: desenvolvimento web 🚀👩‍💻
 
 E ai júnior, suave? Quer se tornar desenvolvedor sênior em 4 meses? Que legal, mas não vai rolar.
 
