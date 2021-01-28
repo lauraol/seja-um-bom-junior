@@ -8,30 +8,22 @@ E ai júnior, suave? Quer se tornar desenvolvedor sênior em 4 meses? Que legal,
 
 ## Objetivo
 
-O objetivo da imersão **#SejaUmBomJunior** é você mergulhar de cabeça na base do desenvolvimento web, um passo antes do hype dos frameworks e linguagens de programação novinhas.
+O objetivo desse plano de estudos **#SejaUmBomJunior** é você mergulhar de cabeça na base no desenvolvimento web, um passo antes do hype dos frameworks e linguagens de programação novinhas.
 
-Como uma pessoa que quis pular essa etapa inicial da vida de júnior e agora vem apanhando muito decidi criar essa imersão para me engajar e motivar a realmente criar uma base sólida de conhecimento em desenvolvimento web (isso fará muita diferença no seu dia-a-dia, vai por mim).
+Como uma pessoa que quis pular essa etapa inicial da vida de júnior e agora vem apanhando muito decidi criar esse plano de estudos para me engajar e motivar a realmente criar uma base sólida de conhecimento em desenvolvimento web (isso fará muita diferença no seu dia-a-dia, vai por mim).
 
-E sabe aquela coisa de "se torne programador em 1 mês" bom, vamos com calma. Foco no feijão com arroz, isso será benéfico para seu inicio de carreira e sua saúde mental.
+E sabe aquela coisa de "se torne programador em 1 mês" bom, vamos com calma. Foco no feijão com arroz, isso será benéfico para seu inicio de carreira e sua **saúde mental**.
 
-🚀**Me acompanhe nessa jornada, e se você sentir vontade faça essa imersão também, não tem data para você começar.**
-
-## Regras gerais da imersão
-
-Bora de regras básicas para se manter motivado e driblar a procrastinação:
-
-- [ ] Para conteúdo teórico:
-      Escrever um artigo no medium ou no readme.md do seu repositório da imersão sobre o conteúdo aprendido no dia.
-- [ ] Para conteúdo prático:
-      Publicar o seu código no github (e de quebra você já vai criando seu portfólio) será importante para que as pessoas vejam seu progresso.
-- [ ] Compartilhar seu progresso nas mídias sociais usando a hashtag #SejaUmBomJunior (isso vai te dar motivação nos dias em que a procrastinação falar um pouco mais alto).
+🚀**Me acompanhe nessa jornada, e se você sentir vontade siga esse plano de estudos também, não tem data para você começar.**
 
 ## Regras para mim
 
 Regras para mim mas que você pode seguir também hehe 😅.
-Sou uma pessoinha que funciona bem com um planejamento estruturado, então criei esse esquema de estudos para a semana:
+Sou uma pessoinha que funciona bem com um planejamento estruturado, mesmo que todo dia você não consiga estudar o que foi proposto, fica mais fácil que o que você deixou de fazer depois.
 
-- 3 horas de estudo diariamente
+Então criei esse esquema de estudos para a semana:
+
+- 2 horas de estudo diariamente
 - Segunda-feira:
   - [ ] Conteúdo teórico
 - Terça-feira:
@@ -43,13 +35,13 @@ Sou uma pessoinha que funciona bem com um planejamento estruturado, então criei
 - Sexta-feira:
   - [ ] Conteúdo prático
 - Sábado:
-  - [ ] Realização de exercícios do URI ou HackerRank para exercitar a lógica (sempre bom manter o pensamento lógico afiado)
+  - [ ] Realização de exercícios do URI ou HackerRank para exercitar a lógica
 
-Sábado é um dia mais voltado para exercitar lógica de programação, e isso será MUITO importante para você independente da linguagem que escolher, domingo é dia de descanso. Parça, respeite os dias mais tranquilos e dias off, isso será muito importante para você continuar motivado e não ficar saturado.
+Sábado é um dia mais voltado para exercitar lógica de programação, e isso será MUITO importante para você independente da linguagem que escolher, **domingo é dia de descanso**. Parça, respeite os dias mais tranquilos e dias off, isso será muito importante para você continuar motivado e não ficar saturado.
 
 ## Cronograma
 
-A imersão #SejaUmBomJunior irá durar 4 meses, parece muito tempo mas é só moscar que o tempo passa sem você perceber.
+Esse plano de estudos irá durar 4 meses, parece muito tempo mas é só moscar que o tempo passa sem você perceber.
 
 **Mês 01**
 
@@ -81,7 +73,7 @@ O Conteúdo para ser estudado:
 - [ ] O que é DevOps?
 - [ ] Linux
 - [ ] Docker
-- [ ] AWS
+- [ ] Introdução sobre AWS
 
 **Mês 4**
 
@@ -124,7 +116,7 @@ Para os dias de prática dessa semana teremos dois desafios:
 - [x] Para dar uma aquecida nos dedinhos: https://www.devchallenge.com.br/detail/5f0b4acaa5fec43156149044
 - [x] Agora um com um pouco mais de elementos: https://www.devchallenge.com.br/detail/5f14fad2130a5d78f89d9642
 
-O site DevChallenge fornece todas as instruções para que possamos realizar os desafios 🥰
+O site **DevChallenge** fornece todas as instruções para que possamos realizar os desafios 🥰
 
 Bom, você pode estar pensando que é pouco tempo para estudar HTML e CSS, mas não se preocupa porque iremos usá-los daqui em diante para fazer o front-end de todos os projetinhos. Então, você irá praticar bastante e essa semana servirá mais para aprimorar (ou conhecer) seus conhecimentos sobre o assunto.
 
@@ -156,7 +148,6 @@ Para os dias de prática dessa semana teremos um desafio:
 - [x] WiseGoat, gerador de conselhos e imagens de bodes: : https://www.devchallenge.com.br/detail/5f14f8d5130a5d78f89d9640 
       
       Vai pedir um conselho para o bodezinho: https://wisegoatconselhos.vercel.app/
-- [ ] HackerRank "10 day of javascript", fazer os 12 primeiros exercícios: https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
 **Semana três:**
 
@@ -173,15 +164,14 @@ Material de estudo:
 Para os dias de prática dessa semana teremos dois desafios:
 
 - [ ] Music Library Page: https://www.devchallenge.com.br/detail/5eeed967c2cfb17d361a5a60
-- [ ] HackerRank "10 day of javascript", fazer os últimos 13 exercícios: https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
-🚀 Extra: Para mergulhar ainda mais no JS a Rocketseat tem dois cursinhos gratuitos o de JavaScript e o ES6:
+🚀 Extra: Para mergulhar ainda mais no JS a Rocketseat tem alguns conteúdos gratuitos:
 
 JavaScript: https://app.rocketseat.com.br/node/curso-java-script
 
 ES6: https://app.rocketseat.com.br/node/curso-java-script-es-6
 
-Se você quiser também vale a pena fazer o cursinho de node, é só clicar aqui: https://app.rocketseat.com.br/node/curso-node-js
+Se você quiser também vale a pena fazer o cursinho de node (back-end), é só clicar aqui: https://app.rocketseat.com.br/node/curso-node-js
 
 ## Conteúdo de estudo do segundo mês
 
@@ -221,7 +211,7 @@ E ai, foi amor ou terror a primeira (ou a segunda rs) vista por java? Bom, essa 
 Material de estudo:
 
 - Java
-  - [ ] Para começar a semana no pique da felicidade bora ler um artigozinho da Alura sobre programação orientada a objetos: https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos
+  - [ ] Para começar a semana no pique da felicidade bora ler um artigo da Alura sobre programação orientada a objetos: https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos
   - [ ] Segunda parte do curso da Loiane, vamos continuar de onde paramos, o módulo será o: Orientação a Objetos e Java: https://loiane.training/curso/java-basico
 
 **Desafios:**
@@ -274,17 +264,17 @@ Material de estudos:
   - [ ] Banco de dados MySQL, mais um cursinho do Guana-anjo: https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
 
 **Desafios:**
-siga os desafios propostos no curso.
+Siga os desafios propostos no curso.
 
 ## Conteúdo de estudo do terceiro mês
 
 Parece que não, mas o tempo voa cara! :o
 
-O terceiro mês da imersão será focado em DevOps, teremos uma introdução sobre o assunto e realizaremos um projetinhos para praticar. Bom, DevOps é um assunto que dá MUITO pano pra manga galera, então não se desespere começar com uma introdução e um pézinho em DevOps é o que te fará buscar conhecer mais afundo o assunto. Então, bora ver o que estudaremos essas semanas:
+O terceiro mês da imersão será focado em uma introdução ao fantástico mundo do DevOps. Bom, DevOps é um assunto que dá MUITO pano pra manga galera, então não se desespere. Vamos começar com uma introdução e um pézinho em DevOps é o que te fará buscar conhecer mais afundo o assunto. Então, bora ver o que estudaremos essas semanas:
 
 **Semana um:**
 
-Essa semana iremos burlar todo o calendário huehue, as vezes temos que quebrar algumas regras, como DevOps tem muito assunto para ler, faremos uma imersão bem mais teórica sobre o assunto.
+Essa semana iremos burlar todo o calendário hehehe, as vezes temos que quebrar algumas regras, como DevOps tem muito assunto para ler, faremos uma imersão bem mais teórica sobre o assunto.
 
 Material de estudos:
 
@@ -314,7 +304,7 @@ Material de estudos:
 
 **Semanas três e quatro:**
 
-E chegou o assunto da vez, AWS, irei dedicar duas semanas em cima desse assunto pois AWS é um mundo basicamente (chegou a hora de gastar no inglês parça, mas não se desespere o translater é sempre um amigo nessas horas).
+E chegou o assunto da vez, AWS, irei dedicar duas semanas em cima desse assunto pois AWS é um mundo basicamente (chegou a hora de gastar no inglês parça, mas não se desespere o translate é sempre um amigo nessas horas).
 
 Material de estudo:
 
@@ -327,7 +317,7 @@ Material de estudo:
   - [ ] Documentação:
         https://docs.aws.amazon.com/
         
-☁️💻 Repositório com resumos sobre AWS e seus componentes: https://github.com/lauraol/cabeca-nas-nuvens
+☁️💻 Repositório com resumos sobre AWS e seus componentes (vou atualizando a medida que vou estudando): https://github.com/lauraol/cabeca-nas-nuvens
 
 ## Quarto mês - projeto final
 
@@ -350,7 +340,10 @@ Bom, você conhece o trello? Ou algum outro app de to do list? Ótimo, pois ness
 - [ ] Opção de editar perfil do usuário
 - [ ] 4 campos: Backlog, To Do, Doing e Done
 - [ ] Os cards deverão se mover de uma lista para a outra
+- [ ] Os dados devem ficar salvo no banco
 
 O design da aplicação fica a gosto do freguês, então pode colocar toda a sua criatividade para fora.
 
 Com essa aplicação conseguiremos aplicar bastante todo o conhecimento visto durante a imersão, desde a manipulação de arrays até a persistência de dados em memória e deploy. Então, se joga e bora codar.
+
+Tendo completado os temas acima, podemos avançar mais um passo e começar a usar alguns frameworks.
