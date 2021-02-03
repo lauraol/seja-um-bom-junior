@@ -66,5 +66,113 @@ n.toFixed(num).replace(".", ",") = Serve para além de formatar as casas decimai
 
 n.toLocaleString("pt-BR", {style: "currency", currency: "BRL"}) = irá colocar no símbolo de real (ou de qualquer outra moeda) na frente do valor
 
+**Outra forma de concatenar**
+
+Usando template string = `Olá, ${var/valor vai aqui}, bla bla bla.`
+
+**Escrevendo no documento pelo JS**
+
+document.write("Escreve aqui alguma coisa hihi");
+
+# Anotações dos módulos B e C
+
+## Operadores
+
+Temos os seguintes tipos de operadores: 
+
+ - Aritméticos
+ - Atribuição
+ - Relacionais
+ - Lógicos 
+ - Ternário
+
+## **Operadores aritméticos**
+
+ - Soma
+ -  Subtração  
+ - Multiplicação 
+ - Divisão, essa aqui serve para divisão
+   de números reais. Use esse símbolo **/**
+ - Divisão de inteiros, usamos para pegar o resto de uma divisão entre números inteiros. Use o símbolo **%**
+ - Potência. Use o símbolo **
+
+**Ordem de precedência dos operadores**
+
+<div align="center">
+	<img src="./assets-sem-03/precedencia-operadores-aritmeticos.png">
+</div>
+
+**Sintaxe simplificada para auto atribuições**
+
+<div align="center">
+	<img src="./assets-sem-03/simplificando-auto-atricuicoes.png">
+</div>
+
+**Tipos de decremento e incremento**
+Existem os:
+
+ - pré incremento
+ - pós incremento
+ - pré decremento
+ - pós decremento
+
+## **Operadores de atribuição**
+
+Exemplo: var num = 10;
+
+Estou **atribuindo diretamente** a variável num o valor 10.
+
+## **Operadores relacionais**
+
+<div align="center">
+	<img src="./assets-sem-03/operadores-relacionais.png">
+</div>
+
+**Operador de identidade** ➡️ ===
+Além de comparar o valor, também irá comparar o tipo. 
+
+## **Operadores lógicos**
+
+<div align="center">
+	<img src="./assets-sem-03/operadores-logicos.png">
+</div>
+
+**Precedência de operadores relacionais**
+primeiro o **negação**, depois o **e**, por último o **ou**
+
+**Precedência de operadores**
+aritméticos > relacionais > lógicos > ternário
+
+## **Operadores ternários**
+
+Ele tem a função de juntar operadores. Exemplo:
+
+<div align="center">
+	<img src="./assets-sem-03/operadores-ternarios.png">
+</div>
+
+O **?** representa **E**
+O **:** representa **OU**
+
+## **DOM**
+
+**Document object model** =  é um modelo de documento para objetos dentro do seu navegador. Ele irá dar acesso aos componentes do seu website.
+
+**Árvore DOM**
+
+<div align="center">
+	<img src="./assets-sem-03/arvore-dom.png">
+</div>
+
+**window** =  engloba tudo que está dentro do site. Dentro do window tenho vários outros objetos.
+
+**Formas de acessar o DOM**
+
+<div align="center">
+	<img src="./assets-sem-03/seletores-dom.png">
+</div>
+
+**Eventos DOM** =  tudo o que pode acontecer com o componente selecionado. Exemplo, uma div.
+
 [1]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-01-conhecendo-o-javaScript  "Módulo 01: Conhecendo o JavaScript"
 [2]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-02-comandos-básicos-do-javaScript  "Módulo 02: Comandos básicos do JavaScript"
