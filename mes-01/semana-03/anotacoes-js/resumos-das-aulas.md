@@ -17,7 +17,7 @@ Anotações feitas a partir do curso de JavaScript ministrado pelo Guanabara, o 
 
 - [Módulo 01: Conhecendo o JavaScript][1]
 - [Módulo 02: Comandos básicos do JavaScript][2]
-- [Módulo 03: Document Object Model][3]
+- [Módulos B e C][3]
 - [LMódulo 04: Condições em JavaScript][4]
 - [Módulo 05: Repetições (laços) em JavaScript][5]
 - [Módulo 06: Avançando nos estudos em JavaScript][6]
@@ -177,3 +177,4 @@ O **:** representa **OU**
 
 [1]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-01-conhecendo-o-javaScript  "Módulo 01: Conhecendo o JavaScript"
 [2]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-02-comandos-básicos-do-javaScript  "Módulo 02: Comandos básicos do JavaScript"
+[3]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulos-B-e-C  "Módulos B e C"
