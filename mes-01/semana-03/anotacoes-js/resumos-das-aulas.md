@@ -74,7 +74,7 @@ Usando template string = `Olá, ${var/valor vai aqui}, bla bla bla.`
 
 document.write("Escreve aqui alguma coisa hihi");
 
-# Anotações dos módulos B e C
+# Módulos B e C
 
 ## Operadores
 
