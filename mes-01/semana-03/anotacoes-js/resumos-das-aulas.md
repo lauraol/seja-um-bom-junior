@@ -98,15 +98,11 @@ Temos os seguintes tipos de operadores:
 
 **Ordem de precedência dos operadores**
 
-<div align="center">
-	<img src="./assets-sem-03/precedencia-operadores-aritmeticos.png">
-</div>
+![precedencia-operadores-aritmeticos](https://user-images.githubusercontent.com/57760301/106690255-3dc67d80-65b0-11eb-80dc-9c1d1bad0ce3.png)
 
 **Sintaxe simplificada para auto atribuições**
 
-<div align="center">
-	<img src="./assets-sem-03/simplificando-auto-atricuicoes.png">
-</div>
+![simplificando-auto-atricuicoes](https://user-images.githubusercontent.com/57760301/106690406-81b98280-65b0-11eb-974d-116dcf70e9e5.png)
 
 **Tipos de decremento e incremento**
 Existem os:
@@ -124,32 +120,41 @@ Estou **atribuindo diretamente** a variável num o valor 10.
 
 ## **Operadores relacionais**
 
-<div align="center">
-	<img src="./assets-sem-03/operadores-relacionais.png">
-</div>
+![operadores-relacionais](https://user-images.githubusercontent.com/57760301/106690445-9433bc00-65b0-11eb-8e49-335a0333159e.png)
 
 **Operador de identidade** ➡️ ===
 Além de comparar o valor, também irá comparar o tipo. 
 
 ## **Operadores lógicos**
 
-<div align="center">
-	<img src="./assets-sem-03/operadores-logicos.png">
-</div>
+![operadores-logicos](https://user-images.githubusercontent.com/57760301/106690468-a1e94180-65b0-11eb-913f-e8fedb38a275.png)
 
-**Precedência de operadores relacionais**
+**Precedência de operadores lógicos**
 primeiro o **negação**, depois o **e**, por último o **ou**
 
 **Precedência de operadores**
 aritméticos > relacionais > lógicos > ternário
 
+**Tabela verdade Negação**
+
+
+![logico-negacao](https://user-images.githubusercontent.com/57760301/106690768-250a9780-65b1-11eb-9855-9e4d2da19643.png)
+
+**Tabela verdade E**
+
+
+![logico-and](https://user-images.githubusercontent.com/57760301/106690749-1cb25c80-65b1-11eb-99f1-2d9e538def80.png)
+
+**Tabela verdade OU**
+
+
+![logico-or](https://user-images.githubusercontent.com/57760301/106690800-2fc52c80-65b1-11eb-84a7-71981e8ec5a8.png)
+
 ## **Operadores ternários**
 
 Ele tem a função de juntar operadores. Exemplo:
 
-<div align="center">
-	<img src="./assets-sem-03/operadores-ternarios.png">
-</div>
+![operadores-ternarios](https://user-images.githubusercontent.com/57760301/106690492-ac0b4000-65b0-11eb-8a95-5e7b5e7fb1f5.png)
 
 O **?** representa **E**
 O **:** representa **OU**
@@ -160,17 +165,13 @@ O **:** representa **OU**
 
 **Árvore DOM**
 
-<div align="center">
-	<img src="./assets-sem-03/arvore-dom.png">
-</div>
+![arvore-dom](https://user-images.githubusercontent.com/57760301/106690513-b4fc1180-65b0-11eb-947e-25180345d0f9.png)
 
 **window** =  engloba tudo que está dentro do site. Dentro do window tenho vários outros objetos.
 
 **Formas de acessar o DOM**
 
-<div align="center">
-	<img src="./assets-sem-03/seletores-dom.png">
-</div>
+![seletores-dom](https://user-images.githubusercontent.com/57760301/106690548-c6451e00-65b0-11eb-8241-59e0422aa935.png)
 
 **Eventos DOM** =  tudo o que pode acontecer com o componente selecionado. Exemplo, uma div.
 
