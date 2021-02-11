@@ -38,3 +38,15 @@ footer p{
     text-align: center;
     margin-top: 5%;
 }
+
+@media (max-width: 500px){
+    section{
+        width: 300px;
+    }
+
+    section img#imagem{
+        border-radius: 50%;
+        width: 180px;
+        height: 180px;
+    }
+}
