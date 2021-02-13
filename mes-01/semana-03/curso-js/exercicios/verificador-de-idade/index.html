@@ -3,21 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Verificador de idade</title>
 
     <link rel="stylesheet" href="style.css">
 </head>
-<body onload="carregar()">
+<body>
     <header>
-        <h1 id="saudacao">Título</h1>
+        <h1 id="titulo">Verificador de idade</h1>
     </header>
 
     <section>
         <div>
-            <p id="msg">Aqui vai aparecer a mensagem</p>
+            <p>
+                Ano de nascimento
+                <input type="number" name="txtano" id="txtano" min="0">
+            </p>
+            <p>
+                Sexo:
+                <input type="radio" name="radsex" id="mas" checked>
+                <label for="mas">Masculino</label>
+                <input type="radio" name="radsex" id="fem">
+                <label for="fem">Feminino</label>
+            </p>
+            <p>
+                <input type="button" value="Verificar" onclick="verificar()">
+            </p>
         </div>
-        <div id="foto">
-            <img id="imagem" src="./assets/icone-manha.jpg" alt="Foto da manhã">
+
+        <div>
+            <div id="minha-imagem"></div>
+            <p id="res"></p>
+            <p>Preencha os dados acima para ver o resultado!</p>
         </div>
     </section>
 
