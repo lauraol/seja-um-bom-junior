@@ -103,10 +103,6 @@ Bom, você pode estar pensando que é pouco tempo para estudar HTML e CSS, mas n
 
 O objetivo da semana dois será conhecer as diretrizes de acessibilidade e começar a colocar javascript nas nossas páginas estáticas e torná-las interativas hehehe.
 
-Essa semana irei burlar um pouco o cronograma de 2 dias de teoria e 3 de prática porque a documentação da WCAG é bem extensa, mas não se preocupa, obvio que não sairemos experts em acessibilidade, teremos uma introdução sobre o assunto e consolidação de alguns conceitos.
-
-Serão 3 dias de teoria e 2 de prática (o sábado não conta pois é dia de realizar exercícios no URI ou HackerRank).
-
 Material de estudo:
 
 - Acessibilidade
@@ -120,7 +116,7 @@ Material de estudo:
 
 **Desafios:**
 
-Para os dias de prática dessa semana teremos um desafio:
+Para você praticar:
 
 - [x] WiseGoat, gerador de conselhos e imagens de bodes: : https://www.devchallenge.com.br/challenges/5f14f8d5130a5d78f89d9640/details
       
@@ -138,7 +134,7 @@ Material de estudo:
 
 **Desafios:**
 
-Para os dias de prática dessa semana teremos dois desafios:
+Para você praticar:
 
 - [ ] Music Library Page: https://www.devchallenge.com.br/detail/5eeed967c2cfb17d361a5a60
 
@@ -168,7 +164,7 @@ Material de estudo:
 
 **Desafios:**
 
-Para os dias de prática dessa semana teremos oito desafios (pode incluir no sábado também pois, estamos pegando os exercícios do URI):
+Para você praticar teremos oito desafios:
 
 - [ ] URI 1005: https://www.urionlinejudge.com.br/judge/pt/problems/view/1005
 - [ ] URI 1006: https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
@@ -193,7 +189,7 @@ Material de estudo:
 
 **Desafios:**
 
-Para os dias de prática dessa semana teremos oito desafios (pode incluir no sábado também pois, estamos pegando os exercícios do URI):
+Para você praticar teremos oito desafios:
 
 - [ ] URI 1038: https://www.urionlinejudge.com.br/judge/pt/problems/view/1038
 - [ ] URI 1040: https://www.urionlinejudge.com.br/judge/pt/problems/view/1040
