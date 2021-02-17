@@ -18,9 +18,7 @@ Anotações feitas a partir do curso de JavaScript ministrado pelo Guanabara, o 
 - [Módulo 01: Conhecendo o JavaScript][1]
 - [Módulo 02: Comandos básicos do JavaScript][2]
 - [Módulos B e C][3]
-- [LMódulo 04: Condições em JavaScript][4]
-- [Módulo 05: Repetições (laços) em JavaScript][5]
-- [Módulo 06: Avançando nos estudos em JavaScript][6]
+- [Módulo E][4]
 
 ## Módulo 02: Comandos básicos do JavaScript
 
@@ -175,6 +173,21 @@ O **:** representa **OU**
 
 **Eventos DOM** =  tudo o que pode acontecer com o componente selecionado. Exemplo, uma div.
 
+# Módulo E
+
+## Repetições em JS
+
+**Estrutura de repetição com teste lógico no início =** são estruturas de repetição que contém o teste lógico logo no início da estrutura, se a condição do teste for verdadeira irá entrar no bloco de repetição, caso a condição seja falsa, o programa seguirá o fluxo.
+
+ Um exemplo de uma repetição com teste lógico no início é o **while**.
+
+**Estrutura de repetição com teste lógico no final =** são repetições que contém o teste lógico no final da estrutura. No começo da estrutura você tem um bloco indicando que ação deverá ser realizada  e só ao final da estrutura você tem a condição. 
+
+Caso a condição seja verdadeira o programa irá voltar e entrar no bloco da ação que deverá ser realizada. Um exemplo desse tipo de estrutura é o **do while**.
+
+**Estrutura de repetição com variável de controle =**  Nesse tipo de estrutura nós temos 3 passos que são a inicialização, o teste lógico e o incremeto. A estrutura de repetição que possui variável de controle é a estrutura **for**.
+
 [1]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-01-conhecendo-o-javaScript  "Módulo 01: Conhecendo o JavaScript"
 [2]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-02-comandos-básicos-do-javaScript  "Módulo 02: Comandos básicos do JavaScript"
 [3]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulos-b-e-c  "Módulos B e C"
+[4]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-e  "Módulo E"
