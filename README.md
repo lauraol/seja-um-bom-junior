@@ -8,36 +8,13 @@ E ai júnior, suave? Quer se tornar desenvolvedor sênior em 4 meses? Que legal,
 
 ## Objetivo
 
-O objetivo desse plano de estudos **#SejaUmBomJunior** é você mergulhar de cabeça na base no desenvolvimento web, um passo antes do hype dos frameworks e linguagens de programação novinhas.
+O objetivo desse plano de estudos **#SejaUmBomJunior** é você mergulhar de cabeça na base do desenvolvimento web, um passo antes do hype dos frameworks e linguagens de programação novinhas.
 
 Como uma pessoa que quis pular essa etapa inicial da vida de júnior e agora vem apanhando muito decidi criar esse plano de estudos para me engajar e motivar a realmente criar uma base sólida de conhecimento em desenvolvimento web (isso fará muita diferença no seu dia-a-dia, vai por mim).
 
 E sabe aquela coisa de "se torne programador em 1 mês" bom, vamos com calma. Foco no feijão com arroz, isso será benéfico para seu inicio de carreira e sua **saúde mental**.
 
 🚀**Me acompanhe nessa jornada, e se você sentir vontade siga esse plano de estudos também, não tem data para você começar.**
-
-## Regras para mim
-
-Regras para mim mas que você pode seguir também hehe 😅.
-Sou uma pessoinha que funciona bem com um planejamento estruturado, mesmo que todo dia você não consiga estudar o que foi proposto, fica mais fácil que o que você deixou de fazer depois.
-
-Então criei esse esquema de estudos para a semana:
-
-- 2 horas de estudo diariamente
-- Segunda-feira:
-  - [ ] Conteúdo teórico
-- Terça-feira:
-  - [ ] Conteúdo teórico
-- Quarta-feira:
-  - [ ] Conteúdo prático
-- Quinta-feira:
-  - [ ] Conteúdo prático
-- Sexta-feira:
-  - [ ] Conteúdo prático
-- Sábado:
-  - [ ] Realização de exercícios do URI ou HackerRank para exercitar a lógica
-
-Sábado é um dia mais voltado para exercitar lógica de programação, e isso será MUITO importante para você independente da linguagem que escolher, **domingo é dia de descanso**. Parça, respeite os dias mais tranquilos e dias off, isso será muito importante para você continuar motivado e não ficar saturado.
 
 ## Cronograma
 
@@ -49,10 +26,10 @@ O primeiro mês da imersão será focado em desenvolvimento front-end 💖
 
 O conteúdo para ser estudado:
 
-- [ ] HTML5 e benefícios de uma estrutura semântica
+- [x] HTML5 e benefícios de uma estrutura semântica
 - [ ] CSS3 (flexbox, grid e etc)
 - [ ] Javascript (foco em ES6+)
-- [ ] Acessibilidade na web
+- [x] Acessibilidade na web
 
 **Mês 02**
 
@@ -66,7 +43,7 @@ O conteúdo para ser estudado:
 
 **Mês 03**
 
-O terceiro mês da imersão será focado em DevOps pois, é um assunto que veio como um soco na minha cara e ter uma base sobre a metodologia e as ferramentas utilizadas será de suma importância para você não ser pego de surpresa ⚙️
+O terceiro mês da imersão será focado em DevOps. Pois, é um assunto que veio como um soco na minha cara e ter uma base sobre a metodologia e as ferramentas utilizadas será de suma importância para você não ser pego de surpresa ⚙️
 
 O Conteúdo para ser estudado:
 
@@ -99,7 +76,7 @@ A partir desse ponto você pode escolher no que irá focar e se especializar.
 
 O tema da primeira semana será HTML5 e CSS3, o foco é melhorar as minhas estruturas dos sites e deixá-las mais semânticas e com CSS utilizar menos gambiarras para atingir os resultados que eu quero, montar uma folha de estilos mais organizada e explorar mais as funcionalidades do CSS3.
 
-Para isso será necessário realizar a leitura da documentação (eu sei, eu sei, não é muito interativo mas vai por mim a documentação será sua melhor amiga e te dará mais base para pesquisas futuras.)
+Para isso será necessário realizar a leitura da documentação (eu sei, eu sei, não é muito interativo mas vai por mim a documentação será sua melhor amiga e te dará mais base para pesquisas futuras).
 
 Material de estudo:
 
@@ -138,7 +115,7 @@ Material de estudo:
   - [x] Guia WCAG (consulta rápida):
         https://guia-wcag.com/
 - JavaScript
-  - [ ] Guia JavaScript:
+  - [x] Guia JavaScript:
         https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
 
 **Desafios:**
@@ -156,7 +133,7 @@ Bom, na última semana deu para dar aquela lida básica no guia do JS e fazer al
 Material de estudo:
 
 - JavaScript (vídeo aulas)
-- [ ] Curso do anjo vulgo Guanabara:
+- [x] Curso do anjo vulgo Guanabara:
       https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
 
 **Desafios:**
@@ -202,7 +179,7 @@ Para os dias de prática dessa semana teremos oito desafios (pode incluir no sá
 - [ ] URI 1035: https://www.urionlinejudge.com.br/judge/pt/problems/view/1035
 - [ ] URI 1020: https://www.urionlinejudge.com.br/judge/pt/problems/view/1020
 
-PS: Criei sua conta no URI e enviei sua resolução, e o site dirá se aceita ou não sua resposta.
+PS: Crie sua conta no URI e envie sua resolução, e o site dirá se aceita ou não sua resposta.
 
 **Semana dois:**
 
@@ -239,7 +216,7 @@ Essa semana vamos elevar um pouquinho mais o nível e começar na trilha de java
 
 **Desafios:**
 
-Para os dias de prática dessa semana teremos oito desafios (pode incluir no sábado também pois, estamos pegando os exercícios do URI):
+Para os dias de prática dessa semana teremos oito desafios:
 
 - [ ] URI 1789: https://www.urionlinejudge.com.br/judge/pt/problems/view/1789
 - [ ] URI 1848: https://www.urionlinejudge.com.br/judge/pt/problems/view/1848
@@ -250,7 +227,7 @@ Para os dias de prática dessa semana teremos oito desafios (pode incluir no sá
 - [ ] URI 2554: https://www.urionlinejudge.com.br/judge/pt/problems/view/2554
 - [ ] URI 2670: https://www.urionlinejudge.com.br/judge/pt/problems/view/2670
 
-PS: Criei sua conta no URI e enviei sua resolução, e o site dirá se aceita ou não sua resposta.
+PS: Crie sua conta no URI e envie sua resolução, e o site dirá se aceita ou não sua resposta.
 
 **Semana quatro:**
 
@@ -273,8 +250,6 @@ Parece que não, mas o tempo voa cara! :o
 O terceiro mês da imersão será focado em uma introdução ao fantástico mundo do DevOps. Bom, DevOps é um assunto que dá MUITO pano pra manga galera, então não se desespere. Vamos começar com uma introdução e um pézinho em DevOps é o que te fará buscar conhecer mais afundo o assunto. Então, bora ver o que estudaremos essas semanas:
 
 **Semana um:**
-
-Essa semana iremos burlar todo o calendário hehehe, as vezes temos que quebrar algumas regras, como DevOps tem muito assunto para ler, faremos uma imersão bem mais teórica sobre o assunto.
 
 Material de estudos:
 
