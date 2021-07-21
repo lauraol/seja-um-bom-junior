@@ -14,7 +14,7 @@ Como uma pessoa que quis pular essa etapa inicial da vida de júnior e agora vem
 
 E sabe aquela coisa de "se torne programador em 1 mês" bom, vamos com calma. Foco no feijão com arroz, isso será benéfico para seu inicio de carreira e sua **saúde mental**.
 
-🚀**Me acompanhe nessa jornada, e se você sentir vontade siga esse plano de estudos também, não tem data para você começar.**
+**Me acompanhe nessa jornada, e se você sentir vontade siga esse plano de estudos também, não tem data para você começar. 🚀**
 
 ## Cronograma
 
@@ -69,9 +69,10 @@ Para isso será necessário realizar a leitura da documentação (eu sei, eu sei
 
 Material de estudo:
 
-- HTML5
+HTML5
   - [x] Leitura da documentação sobre os elementos HTML: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
-- CSS
+
+CSS3
   - [x] Leitura sobre CSS (esse site é MARAVILHOSO):
         https://css-tricks.com/
 
@@ -83,7 +84,7 @@ Para os dias de prática dessa semana teremos dois desafios:
 
 Bom, você pode estar pensando que é pouco tempo para estudar HTML e CSS, mas não se preocupe porque iremos usá-los daqui em diante para fazer o front-end de todos os projetinhos. Então, você irá praticar bastante e essa semana servirá mais para aprimorar seus conhecimentos sobre o assunto.
 
-🚀 Extra: Caso você esteja começando do zero creio que só a leitura da documentação apesar de muito importante não será suficiente. Então, o Guanabara lançou um curso atualizado sobre HTML5 e CSS3, para conferir é só clicar aqui:
+**🚀 Extra:** Caso você esteja começando do zero creio que só a leitura da documentação apesar de muito importante não será suficiente. Então, o Guanabara lançou um curso atualizado sobre HTML5 e CSS3, para conferir é só clicar aqui:
 
 https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
 
@@ -93,12 +94,13 @@ O objetivo da semana dois será conhecer as diretrizes de acessibilidade e come�
 
 Material de estudo:
 
-- Acessibilidade
+Acessibilidade
   - [x] Diretrizes de acessibilidade para conteúdo web:
         https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/
   - [x] Guia WCAG (consulta rápida):
         https://guia-wcag.com/
-- JavaScript
+        
+JavaScript
   - [x] Guia JavaScript:
         https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
 
@@ -114,7 +116,7 @@ Bom, na última semana deu para dar aquela lida básica no guia do JS e fazer al
 
 Material de estudo:
 
-- JavaScript (vídeo aulas)
+JavaScript (vídeo aulas)
 - [x] Curso do anjo vulgo Guanabara:
       https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
 
@@ -124,7 +126,7 @@ Para você praticar:
 
 - [ ] Music Library Page: https://www.devchallenge.com.br/challenges/5eeed967c2cfb17d361a5a60/details
 
-🚀 Extra: Para mergulhar ainda mais no HTML, CSS e JS a Rocketseat tem alguns conteúdos gratuitos:
+**🚀 Extra:** Para mergulhar ainda mais no HTML, CSS e JS a Rocketseat tem alguns conteúdos gratuitos:
 
 https://app.rocketseat.com.br/discover
 
