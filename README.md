@@ -83,7 +83,9 @@ Para os dias de prática dessa semana teremos dois desafios:
 
 Bom, você pode estar pensando que é pouco tempo para estudar HTML e CSS, mas não se preocupe porque iremos usá-los daqui em diante para fazer o front-end de todos os projetinhos. Então, você irá praticar bastante e essa semana servirá mais para aprimorar seus conhecimentos sobre o assunto.
 
-🚀 Extra: Caso você esteja começando do zero creio que só a leitura da documentação apesar de muito importante não será suficiente. Então, o Guanabara lançou um curso atualizado sobre HTML5 e CSS3, para conferir é só clicar aqui:https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+🚀 Extra: Caso você esteja começando do zero creio que só a leitura da documentação apesar de muito importante não será suficiente. Então, o Guanabara lançou um curso atualizado sobre HTML5 e CSS3, para conferir é só clicar aqui:
+
+https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
 
 **Semana dois:**
 
