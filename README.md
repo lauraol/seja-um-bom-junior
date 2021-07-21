@@ -1,6 +1,6 @@
 # Plano de estudos: desenvolvimento web 🚀👩‍💻
 
-E ai júnior, suave? Quer se tornar desenvolvedor sênior em 4 meses? Que legal, mas não vai rolar.
+E ai júnior, suave? Quer se tornar desenvolvedor sênior em 3 meses? Que legal, mas não vai rolar.
 
 <div>
  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif">
@@ -10,7 +10,7 @@ E ai júnior, suave? Quer se tornar desenvolvedor sênior em 4 meses? Que legal,
 
 O objetivo desse plano de estudos **#SejaUmBomJunior** é você mergulhar de cabeça na base do desenvolvimento web, um passo antes do hype dos frameworks e linguagens de programação novinhas.
 
-Como uma pessoa que quis pular essa etapa inicial da vida de júnior e agora vem apanhando muito decidi criar esse plano de estudos para me engajar e motivar a realmente criar uma base sólida de conhecimento em desenvolvimento web (isso fará muita diferença no seu dia-a-dia, vai por mim).
+Como uma pessoa que quis pular essa etapa inicial da vida de júnior e agora vem apanhando muito decidi criar esse plano de estudos para me motivar a realmente criar uma base sólida de conhecimento em desenvolvimento web (isso fará muita diferença no seu dia-a-dia, vai por mim).
 
 E sabe aquela coisa de "se torne programador em 1 mês" bom, vamos com calma. Foco no feijão com arroz, isso será benéfico para seu inicio de carreira e sua **saúde mental**.
 
@@ -18,7 +18,7 @@ E sabe aquela coisa de "se torne programador em 1 mês" bom, vamos com calma. Fo
 
 ## Cronograma
 
-Esse plano de estudos irá durar 4 meses, parece muito tempo mas é só moscar que o tempo passa sem você perceber.
+Esse plano de estudos irá durar (em média) 3 meses, parece muito tempo mas é só moscar que o tempo passa sem você perceber.
 
 **Mês 01**
 
@@ -27,8 +27,8 @@ O primeiro mês da imersão será focado em desenvolvimento front-end 💖
 O conteúdo para ser estudado:
 
 - [x] HTML5 e benefícios de uma estrutura semântica
-- [ ] CSS3 (flexbox, grid e etc)
-- [ ] Javascript (foco em ES6+)
+- [x] CSS3 (flexbox, grid e etc)
+- [x] Javascript (foco em ES6+)
 - [x] Acessibilidade na web
 
 **Mês 02**
@@ -42,17 +42,6 @@ O conteúdo para ser estudado:
 - [ ] Java
 
 **Mês 03**
-
-O terceiro mês da imersão será focado em DevOps. Pois, é um assunto que veio como um soco na minha cara e ter uma base sobre a metodologia e as ferramentas utilizadas será de suma importância para você não ser pego de surpresa ⚙️
-
-O Conteúdo para ser estudado:
-
-- [ ] O que é DevOps?
-- [ ] Linux
-- [ ] Docker
-- [ ] Introdução sobre AWS
-
-**Mês 4**
 
 O último mês da imersão será focado na elaboração de um "grande" projeto para amarrar todo o conhecimento adquirido nesse período.
 
@@ -90,11 +79,9 @@ Material de estudo:
 
 Para os dias de prática dessa semana teremos dois desafios:
 
-- [x] Para dar uma aquecida nos dedinhos: https://www.devchallenge.com.br/challenges/5f14fad2130a5d78f89d9642/details
+- [ ] Para dar uma aquecida nos dedinhos o primeiro desafio será fazer uma landing page para divulgar algum produto ou serviço.
 
-O site **DevChallenge** fornece todas as instruções para que possamos realizar os desafios 🥰
-
-Bom, você pode estar pensando que é pouco tempo para estudar HTML e CSS, mas não se preocupa porque iremos usá-los daqui em diante para fazer o front-end de todos os projetinhos. Então, você irá praticar bastante e essa semana servirá mais para aprimorar (ou conhecer) seus conhecimentos sobre o assunto.
+Bom, você pode estar pensando que é pouco tempo para estudar HTML e CSS, mas não se preocupe porque iremos usá-los daqui em diante para fazer o front-end de todos os projetinhos. Então, você irá praticar bastante e essa semana servirá mais para aprimorar seus conhecimentos sobre o assunto.
 
 🚀 Extra: Caso você esteja começando do zero creio que só a leitura da documentação apesar de muito importante não será suficiente. Então, o Guanabara lançou um curso atualizado sobre HTML5 e CSS3, para conferir é só clicar aqui:https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
 
@@ -117,9 +104,7 @@ Material de estudo:
 
 Para você praticar:
 
-- [x] WiseGoat, gerador de conselhos e imagens de bodes: : https://www.devchallenge.com.br/challenges/5f14f8d5130a5d78f89d9640/details
-      
-      Vai pedir um conselho para o bodezinho: https://wisegoatconselhos.vercel.app/
+- [ ] Pomodoro Timer: https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Pomodoro-Clock.md
 
 **Semana três:**
 
@@ -135,15 +120,11 @@ Material de estudo:
 
 Para você praticar:
 
-- [ ] Music Library Page: https://www.devchallenge.com.br/detail/5eeed967c2cfb17d361a5a60
+- [ ] Music Library Page: https://www.devchallenge.com.br/challenges/5eeed967c2cfb17d361a5a60/details
 
-🚀 Extra: Para mergulhar ainda mais no JS a Rocketseat tem alguns conteúdos gratuitos:
+🚀 Extra: Para mergulhar ainda mais no HTML, CSS e JS a Rocketseat tem alguns conteúdos gratuitos:
 
-JavaScript: https://app.rocketseat.com.br/node/curso-java-script
-
-ES6: https://app.rocketseat.com.br/node/curso-java-script-es-6
-
-Se você quiser também vale a pena fazer o cursinho de node (back-end), é só clicar aqui: https://app.rocketseat.com.br/node/curso-node-js
+https://app.rocketseat.com.br/discover
 
 ## Conteúdo de estudo do segundo mês
 
@@ -244,52 +225,7 @@ Parece que não, mas o tempo voa cara! :o
 
 O terceiro mês da imersão será focado em uma introdução ao fantástico mundo do DevOps. Bom, DevOps é um assunto que dá MUITO pano pra manga galera, então não se desespere. Vamos começar com uma introdução e um pézinho em DevOps é o que te fará buscar conhecer mais afundo o assunto. Então, bora ver o que estudaremos essas semanas:
 
-**Semana um:**
-
-Material de estudos:
-
-- DevOps
-  - [ ] Dicionário do programador:
-        https://www.youtube.com/watch?v=iwf6kcvxeD4
-  - [ ] Conteúdo em texto:
-        https://gaea.com.br/o-que-e-devops-conceito/
-- Linux
-  - [ ] O terminal será um belo amigo nessa jornada, curso do Guanabara sobre Linux:
-        https://www.youtube.com/watch?v=6nN2EglOqCM&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV
-
-**Semana dois:**
-Essa semana será exclusivamente para conhecermos o docker e praticar um pouquinho.
-
-Material de estudos:
-
-- Docker
-  - [ ] Vamos começar com um vídeo introdutório e prático para dar aquela animada:
-        https://www.youtube.com/watch?v=Kzcz-EVKBEQ&t=796s
-  - [ ] Docker e Docker Compose:
-        https://www.youtube.com/watch?v=yb2udL9GG2U&t=23s
-  - [ ] Cursinho sobre docker:
-        https://www.youtube.com/watch?v=c2y_yz9B6_M&list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4
-  - [ ] E não podia faltar, documentação:
-        https://docs.docker.com/
-
-**Semanas três e quatro:**
-
-E chegou o assunto da vez, AWS, irei dedicar duas semanas em cima desse assunto pois AWS é um mundo basicamente (chegou a hora de gastar no inglês parça, mas não se desespere o translate é sempre um amigo nessas horas).
-
-Material de estudo:
-
-- AWS
-  - [ ] Introdução sobre AWS:
-        https://www.youtube.com/watch?v=S5xF09-wkJw
-  - [ ] Curso oferecido pela AWS - AWS Cloud Practitioner Essentials: https://www.aws.training/Details/Curriculum?id=27076
-  - [ ] Tutorial de deploy com AWS:
-        https://www.youtube.com/watch?v=U3VSJhaC4kc
-  - [ ] Documentação:
-        https://docs.aws.amazon.com/
-        
-☁️💻 Repositório com resumos sobre AWS e seus componentes (vou atualizando a medida que vou estudando): https://github.com/lauraol/cabeca-nas-nuvens
-
-## Quarto mês - projeto final
+## último mês - projeto final
 
 E chegamos, último mês! Recapitulando os requisitos do projeto:
 

@@ -1,6 +1,6 @@
 # Acessibilidade na web
 
-O foco de estudo hoje é em acessibilidade! Vamos por tópicos
+O foco de estudo hoje é em acessibilidade! Vamos por tópicos:
 
 1.  O que é acessibilidade na web?
 2.  O que é WCAG?
@@ -27,8 +27,8 @@ A **WCAG (Web Content Accessibility Guidelines)** é um conjunto de diretrizes s
 A WCAG possui três níveis de conformidade, que são:
 
 1.  Nível A: É o nível básico de acessibilidade requerido dos sites. Estar em conformidade com esse nível não significa ter um site altamente acessível.
-2.  Nível AA: Estar em conformidade com esse nível significa que você tem uma aplicação web bem acessível. Ela se enquadra na necessidade da maioria dos usuários e utilizando a maioria das tecnologias.
-3.  Nível AAA: É o maior nível de conformidade da WCAG, estar em conformidade com esse item significa que você possui em site extremamente meticuloso. Porém, de acordo com as pesquisas que realizei manter um site nesse padrão é bem custoso pois, esse padrão visa casos de usuários bem específicos e a maioria dos sistemas web não possuem esses tipos de casos.
+2.  Nível AA: Estar em conformidade com esse nível significa que você tem uma aplicação web bem acessível. Ela se enquadra na necessidade da maioria dos usuários.
+3.  Nível AAA: É o maior nível de conformidade da WCAG, estar em conformidade com esse item significa que você possui um site extremamente meticuloso. Porém, de acordo com as pesquisas que realizei manter um site nesse padrão é bem custoso pois, esse padrão visa casos de usuários bem específicos e a maioria dos sistemas web não possuem esses tipos de casos.
 
 ## Princípios da WCAG
 
@@ -41,7 +41,7 @@ Os **4 princípios** que um site deve ter:
 
 ## Dicas
 
-Acessibilidade na web é um assunto bemmm extenso (se você entrou no site da W3C você percebeu hihi), então segue alguns conteúdos que podem te ajudar a entender melhor o assunto e a sempre revisitar conceitos para que não caiam no esquecimento:
+Acessibilidade na web é um assunto bem extenso (se você entrou no site da W3C você percebeu hihi), então segue alguns conteúdos que podem te ajudar a entender melhor o assunto:
 
 **Vídeos**
 

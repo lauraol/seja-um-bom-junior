@@ -8,7 +8,7 @@ Bom, vamos recapitular a sintaxe usada na sua folha de estilos:
         propriedade: valor;
     }
 
-Nós podemos dividir os seletores em quatro categorias, que se tivessem um peso (porém é mais elegante chamarmos de ordem de precedência) seriam mais ou menos assim:
+Nós podemos dividir os seletores em quatro categorias, que se tivessem um peso (é mais elegante chamarmos de ordem de precedência) seriam mais ou menos assim:
 
 1.  Seletor utilizando tags HTML, peso: 1
 2.  Seletor descendente, peso: 10

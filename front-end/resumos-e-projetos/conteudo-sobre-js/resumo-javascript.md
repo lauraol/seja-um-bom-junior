@@ -2,10 +2,10 @@
 
 Antes de tudo, o que diabos é JavaScript?
 
-Bom, JavaScript ou javascripito para os íntimos é uma linguagem de programação interpretada (uma das mais populares do mundo hihihi).
+Bom, JavaScript, ou javascripito para os íntimos, é uma linguagem de programação interpretada.
 Primeiramente, linguagem de programação interpretada quer dizer que no final aqueles códigos não virarão um amontoado gigantesco de 0 e 1, consequentemente, o computador não entende aquilo pois, a linguagem do computador baseia-se em zeros e uns. Então, essa linguagem é executada por um motor e um ambiente de execução.
 
-Como nessa imersão estou mais focado no ECMAScript nada mais justo do que dizer o que é isso: É uma especificação de linguagem de programação baseada em scripts, padronizada e mantida pela [Ecma International](https://pt.wikipedia.org/wiki/Ecma_International). Essa "convenção" foi criada com o objetivo de padronizar os códigos escritos nessa linguagem e organizar suas várias implementações (sabe aquela piada de sai um framework de js todo dia? Então... hahaha).
+Como nessa imersão estou mais focada no ECMAScript nada mais justo do que dizer o que é isso: É uma especificação de linguagem de programação baseada em scripts, padronizada e mantida pela [Ecma International](https://pt.wikipedia.org/wiki/Ecma_International). Essa "convenção" foi criada com o objetivo de padronizar os códigos escritos nessa linguagem e organizar suas várias implementações.
 
 Ótimo artigo sobre JavaScript: https://marquesfernandes.com/desenvolvimento/javascript-o-que-e-como-funciona-e-para-que-serve/
 
@@ -13,7 +13,7 @@ Documentação que você também pode dar uma lida: https://developer.mozilla.or
 
 ## Curso de JavaScript do Guanabara
 
-Anotações feitas a partir do curso de JavaScript ministrado pelo Guanabara, o curso será dividido em seis módulos:
+Anotações feitas a partir do curso de JavaScript ministrado pelo Guanabara:
 
 - [Módulo 01: Conhecendo o JavaScript][1]
 - [Módulo 02: Comandos básicos do JavaScript][2]
@@ -24,16 +24,16 @@ Anotações feitas a partir do curso de JavaScript ministrado pelo Guanabara, o 
 
 **Variáveis e tipos primitivos**
 
- - Number
-	 - Infinity
-	 - NaN
- - String
- - Boolean
- - Null
- - Undefined
- - Object
-	 - Array
- - Function
+- Number
+  - Infinity
+  - NaN
+- String
+- Boolean
+- Null
+- Undefined
+- Object
+  - Array
+- Function
 
 **Tratamento de dados**
 
@@ -60,7 +60,7 @@ palavra.toLowerCase() = tudo para minúsculo
 
 n.toFixed(num) = Serve para formatar o número de casas decimais que serão mostradas
 
-n.toFixed(num).replace(".", ",") = Serve para além de formatar as casas decimais também substituir o ponto por virgula 
+n.toFixed(num).replace(".", ",") = Serve para além de formatar as casas decimais também substituir o ponto por virgula
 
 n.toLocaleString("pt-BR", {style: "currency", currency: "BRL"}) = irá colocar no símbolo de real (ou de qualquer outra moeda) na frente do valor
 
@@ -76,23 +76,23 @@ document.write("Escreve aqui alguma coisa hihi");
 
 ## Operadores
 
-Temos os seguintes tipos de operadores: 
+Temos os seguintes tipos de operadores:
 
- - Aritméticos
- - Atribuição
- - Relacionais
- - Lógicos 
- - Ternário
+- Aritméticos
+- Atribuição
+- Relacionais
+- Lógicos
+- Ternário
 
 ## **Operadores aritméticos**
 
- - Soma
- -  Subtração  
- - Multiplicação 
- - Divisão, essa aqui serve para divisão
-   de números reais. Use esse símbolo **/**
- - Divisão de inteiros, usamos para pegar o resto de uma divisão entre números inteiros. Use o símbolo **%**
- - Potência. Use o símbolo **
+- Soma
+- Subtração
+- Multiplicação
+- Divisão, essa aqui serve para divisão
+  de números reais. Use esse símbolo **/**
+- Divisão de inteiros, usamos para pegar o resto de uma divisão entre números inteiros. Use o símbolo **%**
+- Potência. Use o símbolo \*\*
 
 **Ordem de precedência dos operadores**
 
@@ -105,10 +105,10 @@ Temos os seguintes tipos de operadores:
 **Tipos de decremento e incremento**
 Existem os:
 
- - pré incremento
- - pós incremento
- - pré decremento
- - pós decremento
+- pré incremento
+- pós incremento
+- pré decremento
+- pós decremento
 
 ## **Operadores de atribuição**
 
@@ -121,7 +121,7 @@ Estou **atribuindo diretamente** a variável num o valor 10.
 ![operadores-relacionais](https://user-images.githubusercontent.com/57760301/106690445-9433bc00-65b0-11eb-8e49-335a0333159e.png)
 
 **Operador de identidade** ➡️ ===
-Além de comparar o valor, também irá comparar o tipo. 
+Além de comparar o valor, também irá comparar o tipo.
 
 ## **Operadores lógicos**
 
@@ -135,16 +135,13 @@ aritméticos > relacionais > lógicos > ternário
 
 **Tabela verdade Negação**
 
-
 ![logico-negacao](https://user-images.githubusercontent.com/57760301/106690768-250a9780-65b1-11eb-9855-9e4d2da19643.png)
 
 **Tabela verdade E**
 
-
 ![logico-and](https://user-images.githubusercontent.com/57760301/106690749-1cb25c80-65b1-11eb-99f1-2d9e538def80.png)
 
 **Tabela verdade OU**
-
 
 ![logico-or](https://user-images.githubusercontent.com/57760301/106690800-2fc52c80-65b1-11eb-84a7-71981e8ec5a8.png)
 
@@ -159,19 +156,19 @@ O **:** representa **OU**
 
 ## **DOM**
 
-**Document object model** =  é um modelo de documento para objetos dentro do seu navegador. Ele irá dar acesso aos componentes do seu website.
+**Document object model** = é um modelo de documento para objetos dentro do seu navegador. Ele irá dar acesso aos componentes do seu website.
 
 **Árvore DOM**
 
 ![arvore-dom](https://user-images.githubusercontent.com/57760301/106690513-b4fc1180-65b0-11eb-947e-25180345d0f9.png)
 
-**window** =  engloba tudo que está dentro do site. Dentro do window tenho vários outros objetos.
+**window** = engloba tudo que está dentro do site. Dentro do window tenho vários outros objetos.
 
 **Formas de acessar o DOM**
 
 ![seletores-dom](https://user-images.githubusercontent.com/57760301/106690548-c6451e00-65b0-11eb-8241-59e0422aa935.png)
 
-**Eventos DOM** =  tudo o que pode acontecer com o componente selecionado. Exemplo, uma div.
+**Eventos DOM** = tudo o que pode acontecer com o componente selecionado. Exemplo, uma div.
 
 # Módulo E
 
@@ -179,15 +176,15 @@ O **:** representa **OU**
 
 **Estrutura de repetição com teste lógico no início =** são estruturas de repetição que contém o teste lógico logo no início da estrutura, se a condição do teste for verdadeira irá entrar no bloco de repetição, caso a condição seja falsa, o programa seguirá o fluxo.
 
- Um exemplo de uma repetição com teste lógico no início é o **while**.
+Um exemplo de uma repetição com teste lógico no início é o **while**.
 
-**Estrutura de repetição com teste lógico no final =** são repetições que contém o teste lógico no final da estrutura. No começo da estrutura você tem um bloco indicando que ação deverá ser realizada  e só ao final da estrutura você tem a condição. 
+**Estrutura de repetição com teste lógico no final =** são repetições que contém o teste lógico no final da estrutura. No começo da estrutura você tem um bloco indicando que ação deverá ser realizada e só ao final da estrutura você tem a condição.
 
 Caso a condição seja verdadeira o programa irá voltar e entrar no bloco da ação que deverá ser realizada. Um exemplo desse tipo de estrutura é o **do while**.
 
-**Estrutura de repetição com variável de controle =**  Nesse tipo de estrutura nós temos 3 passos que são a inicialização, o teste lógico e o incremeto. A estrutura de repetição que possui variável de controle é a estrutura **for**.
+**Estrutura de repetição com variável de controle =** Nesse tipo de estrutura nós temos 3 passos que são a inicialização, o teste lógico e o incremeto. A estrutura de repetição que possui variável de controle é a estrutura **for**.
 
-[1]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-01-conhecendo-o-javaScript  "Módulo 01: Conhecendo o JavaScript"
-[2]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-02-comandos-básicos-do-javaScript  "Módulo 02: Comandos básicos do JavaScript"
-[3]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulos-b-e-c  "Módulos B e C"
-[4]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-e  "Módulo E"
+[1]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-01-conhecendo-o-javaScript "Módulo 01: Conhecendo o JavaScript"
+[2]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-02-comandos-básicos-do-javaScript "Módulo 02: Comandos básicos do JavaScript"
+[3]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulos-b-e-c "Módulos B e C"
+[4]: https://github.com/lauraol/seja-um-bom-junior/blob/master/mes-01/semana-03/anotacoes-js/resumos-das-aulas.md#módulo-e "Módulo E"
