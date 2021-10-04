@@ -4,7 +4,7 @@
  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif">
 </div>
 
-<p align="center">Eu depois de perceber que não ia virar sênior estudando três meses.</p>
+<p align="center">Eu depois de perceber que não iria virar sênior estudando três meses.</p>
 
 ## Objetivo
 
@@ -145,6 +145,8 @@ Material de estudo:
 - Java
   - [ ] Curso da Loiane sobre java básico (Essa semana iremos só até o módulo 6, pois os próximos são sobre OO):
         https://loiane.training/curso/java-basico
+  - [ ] Curso do dev dojo de Logica de programação com Java:
+        https://www.youtube.com/watch?v=ycyL5CqZoUo&list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ
 
 **Desafios:**
 
