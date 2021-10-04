@@ -4,11 +4,11 @@
  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif">
 </div>
 
-<p align="center">Eu depois de perceber que não ia virar sênior estudando três meses.</p>
+<p align="center">Eu depois de perceber que não iria virar sênior estudando três meses.</p>
 
 ## Objetivo
 
-O objetivo desse plano de estudos **#SejaUmBomJunior** é você mergulhar de cabeça na base do desenvolvimento web, um passo antes do hype dos frameworks e linguagens de programação novinhas.
+O objetivo desse plano de estudos **#SejaUmBomJunior** é você mergulhar de cabeça na base do desenvolvimento web, um passo antes do hype dos frameworks e linguagens de programação novinhas, pois ter uma base consolidada é bom para qualquer desenvolvedor de software.
 
 Como uma pessoa que quis pular essa etapa inicial da vida de júnior e agora vem apanhando muito decidi criar esse plano de estudos para me motivar a realmente criar uma base sólida de conhecimento em desenvolvimento web (isso fará muita diferença no seu dia-a-dia, vai por mim).
 
@@ -145,6 +145,8 @@ Material de estudo:
 - Java
   - [ ] Curso da Loiane sobre java básico (Essa semana iremos só até o módulo 6, pois os próximos são sobre OO):
         https://loiane.training/curso/java-basico
+  - [ ] Playlist do curso do Dev Dojo ensinando Logica de Programação com Java:
+        https://www.youtube.com/watch?v=ycyL5CqZoUo&list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ
 
 **Desafios:**
 
